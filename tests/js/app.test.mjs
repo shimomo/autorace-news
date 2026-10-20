@@ -1,21 +1,24 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 import {
-  dateLabel,
+  daysInWeek,
   displayTitle,
   failureMessage,
+  formatCardTime,
   formatDateTime,
-  formatTime,
   groupBySection,
   isStale,
+  nextWeekEnd,
+  prevWeekEnd,
   renderCard,
   renderSections,
-  resolveDate,
+  resolveWeek,
   sectionOf,
   sourceLabel,
   staleMessage,
   stripTrailingHashtags,
   visibleTags,
+  weekLabel,
 } from "../../docs/app.js";
 
 const article = (over = {}) => ({
@@ -77,27 +80,50 @@ test("unknownSourceGoesToOfficialWithItsName", () => {
 });
 
 test("formatsTimesInTokyoWith24HourClock", () => {
-  assert.equal(formatTime("2026-10-19T18:32:00+09:00"), "18:32");
-  assert.equal(formatTime("2026-10-20T00:10:00+09:00"), "00:10");
-  assert.equal(formatTime("2026-10-19T15:10:00Z"), "00:10");
+  assert.equal(formatCardTime("2026-10-19T18:32:00+09:00"), "10/19 (月) 18:32");
+  assert.equal(formatCardTime("2026-10-20T00:10:00+09:00"), "10/20 (火) 00:10");
+  assert.equal(formatCardTime("2026-10-19T15:10:00Z"), "10/20 (火) 00:10");
   assert.equal(formatDateTime("2026-10-20T09:17:00+09:00"), "10/20 09:17");
-  assert.equal(dateLabel("2026-10-19"), "2026-10-19 (月)");
 });
 
-test("isStale after more than three hours", () => {
+test("isStale after more than twenty-four hours", () => {
   const checkedAt = "2026-10-20T09:17:00+09:00";
-  assert.equal(isStale(checkedAt, new Date("2026-10-20T12:17:00+09:00")), false);
-  assert.equal(isStale(checkedAt, new Date("2026-10-20T12:17:01+09:00")), true);
+  assert.equal(isStale(checkedAt, new Date("2026-10-21T09:17:00+09:00")), false);
+  assert.equal(isStale(checkedAt, new Date("2026-10-21T09:17:01+09:00")), true);
 });
 
-test("resolveDate falls back to the latest", () => {
-  assert.deepEqual(resolveDate("", ["2026-10-20", "2026-10-19"]), { date: "2026-10-20", fallback: false });
-  assert.deepEqual(resolveDate("#2026-10-19", ["2026-10-20", "2026-10-19"]), {
-    date: "2026-10-19",
-    fallback: false,
-  });
-  assert.deepEqual(resolveDate("#2026-01-01", ["2026-10-20"]), { date: "2026-10-20", fallback: true });
-  assert.deepEqual(resolveDate("", []), { date: null, fallback: false });
+const DATES = ["2026-10-20", "2026-10-19", "2026-10-16", "2026-10-12", "2026-10-04", "2026-09-30"];
+
+test("resolveWeek ends on the latest day or the requested day", () => {
+  assert.deepEqual(resolveWeek("", DATES), { end: "2026-10-20", fallback: false });
+  assert.deepEqual(resolveWeek("#2026-10-13", DATES), { end: "2026-10-13", fallback: false });
+  assert.deepEqual(resolveWeek("#2026-09-30", DATES), { end: "2026-09-30", fallback: false });
+  assert.deepEqual(resolveWeek("#2026-10-21", DATES), { end: "2026-10-20", fallback: true });
+  assert.deepEqual(resolveWeek("#2026-09-29", DATES), { end: "2026-10-20", fallback: true });
+  assert.deepEqual(resolveWeek("#2026-02-30", DATES), { end: "2026-10-20", fallback: true });
+  assert.deepEqual(resolveWeek("#foo", DATES), { end: "2026-10-20", fallback: true });
+  assert.deepEqual(resolveWeek("", []), { end: null, fallback: false });
+});
+
+test("daysInWeek keeps the seven days ending on end", () => {
+  assert.deepEqual(daysInWeek("2026-10-20", DATES), ["2026-10-20", "2026-10-19", "2026-10-16"]);
+  assert.deepEqual(daysInWeek("2026-10-13", DATES), ["2026-10-12"]);
+  assert.deepEqual(daysInWeek("2026-10-10", DATES), ["2026-10-04"]);
+});
+
+test("week navigation moves seven days and stops at the data range", () => {
+  assert.equal(prevWeekEnd("2026-10-20", DATES), "2026-10-13");
+  assert.equal(prevWeekEnd("2026-10-06", DATES), null);
+  assert.equal(prevWeekEnd("2026-10-07", DATES), "2026-09-30");
+  assert.equal(nextWeekEnd("2026-10-20", DATES), null);
+  assert.equal(nextWeekEnd("2026-10-13", DATES), "2026-10-20");
+  assert.equal(nextWeekEnd("2026-10-16", DATES), "2026-10-20");
+  assert.equal(nextWeekEnd("2026-10-06", DATES), "2026-10-13");
+});
+
+test("weekLabel shows the range with the year once", () => {
+  assert.equal(weekLabel("2026-10-20"), "2026/10/14 (水) 〜 10/20 (火)");
+  assert.equal(weekLabel("2026-01-04"), "2025/12/29 (月) 〜 2026/1/4 (日)");
 });
 
 test("renderCard shows link, badge, tags and time", () => {
@@ -110,7 +136,7 @@ test("renderCard shows link, badge, tags and time", () => {
     html,
     /<span class="src official">AUTORACE\.JP<\/span><span class="tag">レース情報<\/span><span class="tag">伊勢崎<\/span>/,
   );
-  assert.match(html, /<span class="time">18:32<\/span>/);
+  assert.match(html, /<span class="time">10\/19 \(月\) 18:32<\/span>/);
 });
 
 test("renderCardEscapesTitleAndRejectsUnsafeUrl", () => {
@@ -129,7 +155,7 @@ test("renderSections keeps order, counts and empty messages", () => {
   assert.ok(html.indexOf("公式のお知らせ") < html.indexOf("新聞記事"));
   assert.ok(html.indexOf("新聞記事") < html.indexOf("動画"));
   assert.match(html, /公式のお知らせ <span class="n">1 件<\/span>/);
-  assert.match(html, /この日の日刊スポーツの記事はありません。/);
+  assert.match(html, /この週の日刊スポーツの記事はありません。/);
   assert.match(html, /動画 <span class="n">2 件<\/span>/);
   const video = groupBySection([
     article({ source: "youtube", id: "a", publishedAt: "2026-10-19T07:00:00+09:00" }),

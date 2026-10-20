@@ -95,6 +95,7 @@ a:hover {
   background: var(--card);
   color: var(--text);
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .nav button:disabled {
@@ -105,7 +106,7 @@ a:hover {
 .date {
   font-size: 16px;
   font-weight: 700;
-  min-width: 10em;
+  min-width: 14em;
   text-align: center;
 }
 
@@ -238,6 +239,10 @@ a:hover {
 @media (max-width: 640px) {
   body {
     padding: 12px 16px 24px;
+  }
+  .date {
+    min-width: 0;
+    font-size: 14px;
   }
   .grid {
     grid-template-columns: 1fr;

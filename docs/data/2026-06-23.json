@@ -2,6 +2,17 @@
     "date": "2026-06-23",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13021",
+            "title": "テレ玉presents 川口ナイトレース 平田 雅崇選手(2026/6/23)",
+            "url": "https://www.kawaguchiauto.jp/interview/20260623/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-06-23T23:33:43+09:00"
+        },
+        {
             "source": "isesaki",
             "sourceName": "伊勢崎オートレース",
             "id": "6834",

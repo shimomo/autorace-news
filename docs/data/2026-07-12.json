@@ -2,6 +2,17 @@
     "date": "2026-07-12",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13101",
+            "title": "川口市営第6回1節 菅原 すずの選手(2026/7/12)",
+            "url": "https://www.kawaguchiauto.jp/interview/20260712/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-07-12T18:49:48+09:00"
+        },
+        {
             "source": "isesaki",
             "sourceName": "伊勢崎オートレース",
             "id": "6891",

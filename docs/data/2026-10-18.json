@@ -2,6 +2,24 @@
     "date": "2026-10-18",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "aBXCKb_DyCg",
+            "title": "山陽オートレース中継 2026年10月18日 第９回泉屋カップ～泉屋の絶対王者は鬼豚！泉屋カップの王者は誰だ～　1日目",
+            "url": "https://www.youtube.com/watch?v=aBXCKb_DyCg",
+            "categories": [],
+            "publishedAt": "2026-10-18T23:01:53+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "dHQoKayaBYI",
+            "title": "【第8戦/山陽ステージ】#スーパースターガールズ王座決定戦 トライアル戦 #オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=dHQoKayaBYI",
+            "categories": [],
+            "publishedAt": "2026-10-18T21:34:14+09:00"
+        },
+        {
             "source": "sanyo",
             "sourceName": "山陽オート",
             "id": "3989",

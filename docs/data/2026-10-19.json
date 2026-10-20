@@ -2,6 +2,15 @@
     "date": "2026-10-19",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "ZmaqiV_qPXg",
+            "title": "山陽オートレース中継 2026年10月19日 第９回泉屋カップ～泉屋の絶対王者は鬼豚！泉屋カップの王者は誰だ～　2日目",
+            "url": "https://www.youtube.com/watch?v=ZmaqiV_qPXg",
+            "categories": [],
+            "publishedAt": "2026-10-19T22:15:46+09:00"
+        },
+        {
             "source": "sanyo",
             "sourceName": "山陽オート",
             "id": "4009",
@@ -11,6 +20,15 @@
                 "応援メッセージ"
             ],
             "publishedAt": "2026-10-19T20:10:58+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "X4qOb8HEafo",
+            "title": "抜群のスタートで石本圭耶が優勝！地元で初のウイニングラン#オートレース #autorace #飯塚オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=X4qOb8HEafo",
+            "categories": [],
+            "publishedAt": "2026-10-19T19:00:39+09:00"
         },
         {
             "source": "autorace.jp",
@@ -23,6 +41,15 @@
                 "レース情報"
             ],
             "publishedAt": "2026-10-19T18:32:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "ebCdte6MVO4",
+            "title": "飯塚オートレース中継 2026年10月19日 ばんえい十勝杯　最終日",
+            "url": "https://www.youtube.com/watch?v=ebCdte6MVO4",
+            "categories": [],
+            "publishedAt": "2026-10-19T17:09:33+09:00"
         },
         {
             "source": "autorace.jp",
@@ -49,6 +76,15 @@
                 "飯塚"
             ],
             "publishedAt": "2026-10-19T15:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "Uep2nrlLbOQ",
+            "title": "間隙を突いて2車狩り敢行!  川口 裕司 #オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=Uep2nrlLbOQ",
+            "categories": [],
+            "publishedAt": "2026-10-19T07:00:24+09:00"
         }
     ]
 }

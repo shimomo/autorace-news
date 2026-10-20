@@ -10,14 +10,14 @@ declare(strict_types=1);
  * 終了コード: すべての配信元が失敗したときだけ 1。
  */
 
+use Shimomo\AutoraceNews\CollectorFactory;
 use Shimomo\AutoraceNews\CollectRun;
 use Shimomo\AutoraceNews\DataStore;
-use Shimomo\AutoraceNewsCollector\Collector;
 
 require dirname(__DIR__) . '/vendor/autoload.php';
 
 $directory = $argv[1] ?? dirname(__DIR__) . '/docs/data';
-$report = (new CollectRun(Collector::default(), new DataStore($directory)))
+$report = (new CollectRun(CollectorFactory::create(), new DataStore($directory)))
     ->run(new DateTimeImmutable('now', new DateTimeZone('Asia/Tokyo')));
 
 echo $report->summary();

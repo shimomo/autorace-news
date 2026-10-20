@@ -21,7 +21,7 @@ AUTORACE.JP のサイトポリシーは無断の転載・公開を禁じてい�
 ```
 GitHub Actions（毎時 17 分ごろ）
   php bin/collect
-    ├─ Collector::default()->collect(since)   ← autorace-news-collector（7 配信元）
+    ├─ CollectorFactory::create()->collect(since)   ← autorace-news-collector（7 配信元。川口だけ RSS に差し替え）
     ├─ 既存の docs/data/*.json と (source, id) で突き合わせて足す・上書きする
     └─ docs/data/YYYY-MM-DD.json と docs/data/index.json を書き出す
   → main ブランチにコミット & push
@@ -30,6 +30,7 @@ GitHub Pages（main ブランチの /docs）
 ```
 
 - 初回（`docs/data/index.json` が無い、または記事のある日が無い）は、各配信元が 1 回で返せる分をすべて取り込む
+- 川口だけはライブラリの WordPress REST API ではなく RSS（お知らせ・選手インタビュー、各最新 10 件）で読む。川口のサーバー（Xserver）が国外 IP からの REST API を 403 で拒み、GitHub Actions からは取れないため。RSS には分類が無いので、川口のお知らせにはタグが付かない
 - 2 回目以降は直近 48 時間分を毎回取り直す。タイトルが後から変わった記事は新しいタイトルで上書きする
 - 古い日のデータは消さない
 - 一部の配信元の失敗では Actions の実行を失敗にしない（一時的な失敗のたびに通知が来ないように）。失敗は job summary とページの注意に出る。すべての配信元が失敗したときと、スクリプト自体が落ちたときだけ赤くなる

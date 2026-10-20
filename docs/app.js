@@ -173,3 +173,82 @@ export function failureMessage(failure) {
 export function staleMessage(checkedAt) {
   return `収集が止まっている可能性があります（最終収集: ${formatDateTime(checkedAt)}）`;
 }
+
+// ---- 以下は DOM を触る部分 -------------------------------------------------
+
+async function fetchJson(path) {
+  const res = await fetch(path, { cache: "no-cache" });
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return res.json();
+}
+
+function el(id) {
+  const node = document.getElementById(id);
+  if (!node) throw new Error(`#${id} not found`);
+  return node;
+}
+
+function setNotices(notices, warnings) {
+  el("notices").innerHTML = [
+    ...warnings.map((w) => `<p class="warning">${escapeHtml(w)}</p>`),
+    ...notices.map((n) => `<p class="notice">${escapeHtml(n)}</p>`),
+  ].join("");
+}
+
+async function render(index) {
+  const { date, fallback } = resolveDate(location.hash, index.dates);
+  const notices = [];
+  const warnings = [];
+
+  el("updated").textContent = index.checkedAt ? `最終更新 ${formatDateTime(index.checkedAt)} JST` : "";
+  if (index.checkedAt && isStale(index.checkedAt, new Date())) warnings.push(staleMessage(index.checkedAt));
+  for (const failure of index.failures ?? []) notices.push(failureMessage(failure));
+
+  if (!date) {
+    el("date").textContent = "データがありません";
+    el("count").textContent = "";
+    el("sections").innerHTML = "";
+    setNotices(["まだ収集結果がありません。", ...notices], warnings);
+    return;
+  }
+
+  const i = index.dates.indexOf(date);
+  const newer = index.dates[i - 1];
+  const older = index.dates[i + 1];
+  const prevBtn = el("prev");
+  const nextBtn = el("next");
+  prevBtn.disabled = !older;
+  nextBtn.disabled = !newer;
+  prevBtn.onclick = () => {
+    if (older) location.hash = older;
+  };
+  nextBtn.onclick = () => {
+    if (newer) location.hash = newer;
+  };
+
+  const day = await fetchJson(`data/${date}.json`);
+  el("date").textContent = dateLabel(day.date);
+  el("count").textContent = `${day.articles.length} 件`;
+  el("sections").innerHTML = renderSections(day.articles);
+
+  if (fallback) notices.unshift("指定の日付が無いため最新を表示しています。");
+  setNotices(notices, warnings);
+}
+
+async function main() {
+  try {
+    const index = await fetchJson("data/index.json");
+    await render(index);
+    window.addEventListener("hashchange", () => {
+      render(index).catch(showError);
+    });
+  } catch (e) {
+    showError(e);
+  }
+}
+
+function showError(e) {
+  setNotices([], [`読み込みに失敗しました: ${e instanceof Error ? e.message : String(e)}`]);
+}
+
+if (typeof document !== "undefined") main();

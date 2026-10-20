@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Autorace News</title>
+    <meta name="description" content="オートレースの公式発表・新聞記事・動画の見出しを1日ごとにまとめた一覧" />
+    <link rel="icon" href="favicon.ico" sizes="32x32" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header-main">
+        <h1 class="brand">Autorace News</h1>
+        <nav class="nav" aria-label="日付の移動">
+          <button id="prev" type="button" disabled>‹ 前日</button>
+          <span id="date" class="date">読み込み中…</span>
+          <button id="next" type="button" disabled>翌日 ›</button>
+        </nav>
+      </div>
+      <div class="header-sub">
+        <span id="count"></span>
+        <span id="updated" class="updated"></span>
+      </div>
+    </header>
+    <div id="notices" class="notices"></div>
+    <main id="sections"></main>
+    <footer class="footer">
+      見出しとリンクのみを掲載しています。記事は各配信元でご覧ください。<br />
+      情報源:
+      <a href="https://autorace.jp/" target="_blank" rel="noopener noreferrer">AUTORACE.JP</a> ・
+      <a href="https://www.nikkansports.com/public_race/auto/" target="_blank" rel="noopener noreferrer">日刊スポーツ</a> ・
+      <a href="https://www.kawaguchiauto.jp/" target="_blank" rel="noopener noreferrer">川口</a> ・
+      <a href="https://www.isesaki-auto.jp/" target="_blank" rel="noopener noreferrer">伊勢崎</a> ・
+      <a href="https://www.hamamatsuauto.jp/" target="_blank" rel="noopener noreferrer">浜松</a> ・
+      <a href="https://sanyoauto.jp/" target="_blank" rel="noopener noreferrer">山陽</a> ・
+      <a href="https://www.youtube.com/channel/UCJAPqcMNYk3HMknRuPMNvKA" target="_blank" rel="noopener noreferrer">YouTube</a>
+    </footer>
+  </body>
+</html>

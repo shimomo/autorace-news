@@ -1,0 +1,44 @@
+{
+    "name": "shimomo/autorace-news",
+    "description": "Hourly list of AutoRace news headlines and links, published on GitHub Pages.",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "shimomo",
+            "email": "yuichi@shimomo.net"
+        }
+    ],
+    "require": {
+        "php": "^8.4",
+        "shimomo/autorace-news-collector": "^0.2"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.27",
+        "phpunit/phpunit": "^13.2",
+        "vimeo/psalm": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shimomo\\AutoraceNews\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Shimomo\\AutoraceNews\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "8.4.3"
+        },
+        "sort-packages": true
+    },
+    "scripts": {
+        "analyse": "psalm",
+        "collect": "php bin/collect",
+        "fix": "pint",
+        "lint": "pint --test",
+        "test": "phpunit"
+    }
+}

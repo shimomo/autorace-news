@@ -18,7 +18,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
+      # 起動時の SHA ではなくブランチの先頭を取る。直前の実行のデータコミットを含めないと、
+      # 毎回書き換わる index.json で push 前の rebase が衝突する
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: shivammathur/setup-php@v2
         with:

@@ -11,7 +11,7 @@ GitHub Actions が収集してリポジトリにコミットし、GitHub Pages �
 - 1 日 1 ページ。記事は「公式のお知らせ」（AUTORACE.JP と川口・伊勢崎・浜松・山陽）→「新聞記事」（日刊スポーツ）→「動画」（公式 YouTube）の 3 段に分かれる
 - カードには見出し（記事へのリンク）・配信元・分類・時刻（JST）だけを出す。集めた記事は除外せずすべて出す
 - 「‹ 前日」「翌日 ›」で記事のある過去の日に戻れる。URL の `#2026-10-19` でも指定できる
-- 取得に失敗した配信元があると、ページ上部に注意が出る（次の収集で成功すれば消える）。収集が 3 時間以上止まっていると警告が出る
+- 取得に失敗した配信元があると、ページ上部に注意が出る（次の収集で成功すれば消える）。最後の収集から 3 時間を超えると警告が出る
 
 AUTORACE.JP のサイトポリシーは無断の転載・公開を禁じているため、公開するのは見出しとリンクだけにしている。
 本文・要約・画像はページにもデータファイルにも書き出さない。
@@ -58,10 +58,12 @@ GitHub Pages（main ブランチの /docs）
 ### 初回に一部の配信元が失敗したとき
 
 その配信元の古い記事は取り込まれないまま、2 回目以降（直近 48 時間分）に進む。
-取り直したいときは `docs/data/index.json` を消してコミットし、もう一度手動で実行する。
+取り直したいときは、Actions の収集が動いていない時間に `docs/data/index.json` を消してコミットし、もう一度手動で実行する。
 `(source, id)` で突き合わせるので、記事が重複することはない。
+手元のクローンは毎時のデータコミットで遅れているので、先に `git pull` する。
 
 ```bash
+git pull --rebase
 git rm docs/data/index.json
 git commit -m "data: refetch everything"
 git push
@@ -70,10 +72,14 @@ gh workflow run collect.yml
 
 ## ローカルで動かす
 
+`docs/data/` は Actions がコミットする場所なので、手元で集めて画面を見るときは、
+`docs/` を一時ディレクトリに写してそこへ書く（`docs/data/` に書くと作業ツリーが汚れ、次の `git pull` が止まる）。
+
 ```bash
 composer install
-php bin/collect                         # docs/data/ に書く（別の場所なら php bin/collect /path/to/dir）
-python3 -m http.server 8765 -d docs     # http://localhost:8765/
+tmp=$(mktemp -d) && cp -r docs/. "$tmp"
+php bin/collect "$tmp/data"             # 引数なしなら docs/data/ に書く
+python3 -m http.server 8765 -d "$tmp"   # http://localhost:8765/
 composer test                           # PHPUnit
 composer lint && composer analyse       # Pint / Psalm
 node --test "tests/js/*.test.mjs"       # app.js のテスト（Node.js 22 以上）

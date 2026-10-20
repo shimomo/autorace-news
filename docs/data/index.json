@@ -142,11 +142,11 @@
         "2024-11-17",
         "2024-07-14"
     ],
-    "checkedAt": "2026-10-20T13:57:14+09:00",
+    "checkedAt": "2026-10-20T13:58:19+09:00",
     "failures": [
         {
             "source": "kawaguchi",
-            "message": "GET https://www.kawaguchiauto.jp/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded returned HTTP 403."
+            "message": "GET https://www.kawaguchiauto.jp/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-18T04%3A58%3A18%2B00%3A00 returned HTTP 403."
         },
         {
             "source": "youtube",

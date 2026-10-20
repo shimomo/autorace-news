@@ -1,0 +1,54 @@
+{
+    "date": "2026-10-19",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4009",
+            "title": "１０／１９　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202610194009.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-10-19T20:10:58+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038825",
+            "title": "【第8戦(山陽ステージ)のポイントを追記！】2026スーパースターガールズ王座決定戦への道　更新しました！",
+            "url": "https://autorace.jp/news/2026/10/19/038825/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-19T18:32:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038827",
+            "title": "WINTICKET・山口シネマ杯GⅡオートレースメモリアル（伊勢崎）出場選手の変更について",
+            "url": "https://autorace.jp/news/2026/10/19/038827/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-19T15:28:45+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038826",
+            "title": "オーバーミッドナイトオートレース（飯塚・10/20～10/22）【展望】をアップしました",
+            "url": "https://autorace.jp/news/raceinfo/2026/10/19/038826/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "飯塚"
+            ],
+            "publishedAt": "2026-10-19T15:00:00+09:00"
+        }
+    ]
+}

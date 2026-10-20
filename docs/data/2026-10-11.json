@@ -1,0 +1,43 @@
+{
+    "date": "2026-10-11",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610110001709",
+            "title": "【オートレース】地元壺井亜羅汰は４日目７着「今までにないぐらい足周りのアオリが…」飯塚G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610110001709.html",
+            "categories": [],
+            "publishedAt": "2026-10-11T21:38:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610110001725",
+            "title": "【オートレース】金子大輔は勝負どころの準決勝戦６着「エンジンが合っていなかった」／飯塚G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610110001725.html",
+            "categories": [],
+            "publishedAt": "2026-10-11T21:37:48+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610110001735",
+            "title": "【オートレース】佐藤励が無傷４連勝「ガッツポーズは、優勝するまでとっておきます」／飯塚G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610110001735.html",
+            "categories": [],
+            "publishedAt": "2026-10-11T21:37:09+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3906",
+            "title": "第９回泉屋カップ～泉屋の絶対王者は鬼豚！泉屋カップの王者は誰だ～【イベント情報】",
+            "url": "https://sanyoauto.jp/topics/event/202610113906.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-11T14:27:23+09:00"
+        }
+    ]
+}

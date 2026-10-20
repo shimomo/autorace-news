@@ -1,0 +1,36 @@
+{
+    "date": "2026-08-26",
+    "articles": [
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "401",
+            "title": "浜松オート無料バス（本場開催日のみ）　運行時刻表",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/401",
+            "categories": [],
+            "publishedAt": "2026-08-26T18:17:22+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3529",
+            "title": "８/２６　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202608263529.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-08-26T16:00:30+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3342",
+            "title": "８月２６日(水)～２８日(金)　AutoRace.JP投票杯オトもっちカップ　イベント情報",
+            "url": "https://sanyoauto.jp/topics/event/202608263342.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-08-26T12:00:56+09:00"
+        }
+    ]
+}

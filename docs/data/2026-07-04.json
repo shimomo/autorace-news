@@ -1,0 +1,27 @@
+{
+    "date": "2026-07-04",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3011",
+            "title": "「EXCITING LEISURE！山陽オート」第７弾のお知らせです！",
+            "url": "https://sanyoauto.jp/topics/202607043011.html",
+            "categories": [
+                "トピックス"
+            ],
+            "publishedAt": "2026-07-04T17:36:41+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "2924",
+            "title": "【アンケート】１１月７日㈯ 開催決定！「山陽オートファン感謝祭」アンケートへのご協力のお願い",
+            "url": "https://sanyoauto.jp/topics/news/202607042924.html",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-07-04T17:30:47+09:00"
+        }
+    ]
+}

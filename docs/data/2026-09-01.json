@@ -1,0 +1,27 @@
+{
+    "date": "2026-09-01",
+    "articles": [
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7039",
+            "title": "おトクにPLAY!オッズパーク杯伊勢崎オートアフター5ナイター　優勝者は廿樂歩選手",
+            "url": "https://www.isesaki-auto.jp/7039/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-01T21:27:39+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3584",
+            "title": "山陽オートレース場～埴生駅間 陸橋封鎖のお知らせ",
+            "url": "https://sanyoauto.jp/topics/news/202609013584.html",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-01T12:28:31+09:00"
+        }
+    ]
+}

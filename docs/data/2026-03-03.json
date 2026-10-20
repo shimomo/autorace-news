@@ -1,0 +1,25 @@
+{
+    "date": "2026-03-03",
+    "articles": [
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "6568",
+            "title": "第47回東京スポーツ杯　イベント情報について",
+            "url": "https://www.isesaki-auto.jp/6568/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-03-03T16:23:31+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4148",
+            "title": "グリーンスタンド3階 有料席　終了時間について",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4148",
+            "categories": [],
+            "publishedAt": "2026-03-03T08:34:24+09:00"
+        }
+    ]
+}

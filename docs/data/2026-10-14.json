@@ -1,0 +1,62 @@
+{
+    "date": "2026-10-14",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610140001200",
+            "title": "【オートレース】佐藤貴也「絶体絶命でしたよ…」展開不利を克服し２節連続Ｖ挑戦／川口",
+            "url": "https://www.nikkansports.com/public_race/news/202610140001200.html",
+            "categories": [],
+            "publishedAt": "2026-10-14T19:02:54+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038814",
+            "title": "11/28(土)若井友和選手・黒川京介選手トークショーを開催します！☞ サテライト花園寄居",
+            "url": "https://autorace.jp/news/2026/10/14/038814/",
+            "categories": [
+                "イベント情報",
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-14T15:12:51+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7183",
+            "title": "伊勢崎キッズバイク教室の受付時間及び実施時刻の変更について（11月29日）",
+            "url": "https://www.isesaki-auto.jp/7183/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-14T12:40:52+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038813",
+            "title": "「2026スーパースターガールズトライアル」第8戦 山陽ステージのメンバーが決定しました！",
+            "url": "https://autorace.jp/news/2026/10/14/038813/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-14T11:36:08+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038812",
+            "title": "伊勢崎キッズバイク教室の開催日の変更について（2026年11月29日）",
+            "url": "https://autorace.jp/news/2026/10/14/038812/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-14T10:00:00+09:00"
+        }
+    ]
+}

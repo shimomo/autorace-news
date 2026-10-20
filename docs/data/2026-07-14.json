@@ -1,0 +1,27 @@
+{
+    "date": "2026-07-14",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3050",
+            "title": "７月１３日(月)～１５日(水)　AutoRace.JP投票杯オトもっちカップ　イベント情報",
+            "url": "https://sanyoauto.jp/topics/event/202607143050.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-07-14T17:50:15+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3129",
+            "title": "「EXCITING LEISURE！山陽オート」第８弾のお知らせです！",
+            "url": "https://sanyoauto.jp/topics/202607143129.html",
+            "categories": [
+                "トピックス"
+            ],
+            "publishedAt": "2026-07-14T16:26:57+09:00"
+        }
+    ]
+}

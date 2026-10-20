@@ -1,0 +1,27 @@
+{
+    "date": "2026-08-08",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3382",
+            "title": "【8/21(金)必着】朝陽カントリークラブpresents　小林啓二杯GⅡ第７回山陽王座チャレンジカップ　横断幕の掲出について",
+            "url": "https://sanyoauto.jp/topics/banner-guide/202608083382.html",
+            "categories": [
+                "横断幕の掲出"
+            ],
+            "publishedAt": "2026-08-08T10:00:41+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "6904",
+            "title": "オッズパークPRESENTS SG第30回オートレースグランプリ　イベント情報について",
+            "url": "https://www.isesaki-auto.jp/6904/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-08-08T01:03:53+09:00"
+        }
+    ]
+}

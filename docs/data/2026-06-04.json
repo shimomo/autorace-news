@@ -1,0 +1,25 @@
+{
+    "date": "2026-06-04",
+    "articles": [
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "6730",
+            "title": "「1日2回出走」 適用のお知らせ",
+            "url": "https://www.isesaki-auto.jp/6730/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-06-04T18:15:07+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4478",
+            "title": "オートレース選手に対する誹謗中傷等への対応について",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4478",
+            "categories": [],
+            "publishedAt": "2026-06-04T13:55:52+09:00"
+        }
+    ]
+}

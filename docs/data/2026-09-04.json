@@ -1,0 +1,27 @@
+{
+    "date": "2026-09-04",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3631",
+            "title": "９/４　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202609043631.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-09-04T20:25:22+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7048",
+            "title": "伊勢崎キッズスピード王決定戦順延のお知らせ",
+            "url": "https://www.isesaki-auto.jp/7048/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-04T14:44:27+09:00"
+        }
+    ]
+}

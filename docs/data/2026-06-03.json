@@ -1,0 +1,38 @@
+{
+    "date": "2026-06-03",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "2730",
+            "title": "６/７～６/９　美祢警備保障杯　イベント情報",
+            "url": "https://sanyoauto.jp/topics/event/202606032730.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-06-03T09:00:37+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "2609",
+            "title": "６月７日（日）　山陽ガールズ選手のお出迎え＆プレゼント企画開催！",
+            "url": "https://sanyoauto.jp/topics/event/202606032609.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-06-03T08:50:34+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "6782",
+            "title": "【6月3日】川口場外開催中止のお知らせ",
+            "url": "https://www.isesaki-auto.jp/6782/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-06-03T08:09:09+09:00"
+        }
+    ]
+}

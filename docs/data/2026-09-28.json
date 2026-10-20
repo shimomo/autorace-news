@@ -1,0 +1,38 @@
+{
+    "date": "2026-09-28",
+    "articles": [
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7117",
+            "title": "スターライトクイーンカップ　優勝者は本田仁恵選手",
+            "url": "https://www.isesaki-auto.jp/7117/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-28T21:23:46+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7116",
+            "title": "アイロックスPRESENTSラッコタワーカップ　優勝者は吉田恵輔選手",
+            "url": "https://www.isesaki-auto.jp/7116/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-28T21:23:35+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3827",
+            "title": "９/２８　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202609283827.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-09-28T16:30:22+09:00"
+        }
+    ]
+}

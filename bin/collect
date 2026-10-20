@@ -1,0 +1,31 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+/**
+ * 記事を集めて docs/data/ に書く。GitHub Actions が毎時実行する。
+ *
+ * 使い方: php bin/collect [data-dir]（既定は docs/data）
+ * 終了コード: すべての配信元が失敗したときだけ 1。
+ */
+
+use Shimomo\AutoraceNews\CollectRun;
+use Shimomo\AutoraceNews\DataStore;
+use Shimomo\AutoraceNewsCollector\Collector;
+
+require dirname(__DIR__) . '/vendor/autoload.php';
+
+$directory = $argv[1] ?? dirname(__DIR__) . '/docs/data';
+$report = (new CollectRun(Collector::default(), new DataStore($directory)))
+    ->run(new DateTimeImmutable('now', new DateTimeZone('Asia/Tokyo')));
+
+echo $report->summary();
+
+$summaryFile = getenv('GITHUB_STEP_SUMMARY');
+
+if (is_string($summaryFile) && $summaryFile !== '') {
+    file_put_contents($summaryFile, $report->summary(), FILE_APPEND);
+}
+
+exit($report->exitCode());

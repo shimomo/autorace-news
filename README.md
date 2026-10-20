@@ -1,6 +1,6 @@
 # autorace-news
 
-オートレースの公式発表・新聞記事・動画の見出しを 1 時間ごとに集めて、1 週間ごとに 1 ページで眺めるための仕組み。
+オートレースの公式発表・新聞記事・動画の見出しを GitHub Actions で定期的に（実際は 1 日に数回）集めて、1 週間ごとに 1 ページで眺めるための仕組み。
 収集には [autorace-news-collector](https://github.com/shimomo/autorace-news-collector) を使う。
 GitHub Actions が収集してリポジトリにコミットし、GitHub Pages がそれを配信する。サーバーもデータベースも使わない。
 

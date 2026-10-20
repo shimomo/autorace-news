@@ -1,6 +1,6 @@
 {
     "name": "shimomo/autorace-news",
-    "description": "Hourly list of AutoRace news headlines and links, published on GitHub Pages.",
+    "description": "Weekly pages of AutoRace news headlines and links, collected by GitHub Actions and published on GitHub Pages.",
     "license": "MIT",
     "type": "project",
     "authors": [

@@ -1,0 +1,56 @@
+name: collect
+
+on:
+  schedule:
+    # 毎時 17 分（0 分は Actions が混むので避ける）
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.4"
+          tools: composer
+
+      - uses: actions/cache@v4
+        with:
+          path: vendor
+          key: vendor-nodev-${{ hashFiles('composer.lock') }}
+
+      - run: composer install --no-dev --prefer-dist --no-progress
+
+      - name: Collect articles
+        id: collect
+        continue-on-error: true
+        run: php bin/collect
+
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "data: $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+      - name: Fail if collection failed
+        if: steps.collect.outcome == 'failure'
+        run: exit 1

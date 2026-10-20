@@ -4,6 +4,114 @@
         {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
+            "id": "dbTlk5MgPrc",
+            "title": "山陽オートレース中継 2026年10月20日 第９回泉屋カップ～泉屋の絶対王者は鬼豚！泉屋カップの王者は誰だ～　最終日",
+            "url": "https://www.youtube.com/watch?v=dbTlk5MgPrc",
+            "categories": [],
+            "publishedAt": "2026-10-20T23:14:33+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038832",
+            "title": "【日刊提供】永井大介がシリーズ2連覇に向けて本格始動／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/20/038832/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-20T20:50:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038831",
+            "title": "【日刊提供】さわやかな明るい笑顔の新井日和／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/20/038831/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-20T20:50:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038828",
+            "title": "【日刊提供】前検日から熱心にマシンをメンテナンスする高橋絵莉子／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/20/038828/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-20T20:50:01+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4022",
+            "title": "１０／２０　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/202610204022.html",
+            "categories": [
+                "トピックス"
+            ],
+            "publishedAt": "2026-10-20T20:15:50+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610200001201",
+            "title": "【オートレース】SG15冠永井大介がシリーズV2へ「前回覇者？忘れちゃったよ」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610200001201.html",
+            "categories": [],
+            "publishedAt": "2026-10-20T19:57:31+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610200001211",
+            "title": "【オートレース】高橋絵莉子が熱心に調整「季節も変わってきたし、状態良くしたい」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610200001211.html",
+            "categories": [],
+            "publishedAt": "2026-10-20T19:54:48+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610200001204",
+            "title": "【オートレース】女子レーサー新井日和が12R登場「えー！最終レースなんですか」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610200001204.html",
+            "categories": [],
+            "publishedAt": "2026-10-20T19:54:20+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038830",
+            "title": "2026年10月20日 飯塚ミッドナイト 整備情報",
+            "url": "https://autorace.jp/news/2026/10/20/038830/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-10-20T19:53:42+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "F1Y2cAnG3nw",
+            "title": "【開幕直前】10.21開幕!! GⅡオートレースメモリアル（ナイター） 5場の意地と誇りが激突する！ #オートレース #autorace #伊勢崎オート #motorsport #shorts",
+            "url": "https://www.youtube.com/watch?v=F1Y2cAnG3nw",
+            "categories": [],
+            "publishedAt": "2026-10-20T19:00:06+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
             "id": "hrWfjZFRIuU",
             "title": "スタートも差しも決め吉松優輝が優出！#オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
             "url": "https://www.youtube.com/watch?v=hrWfjZFRIuU",

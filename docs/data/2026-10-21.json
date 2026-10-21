@@ -2,6 +2,132 @@
     "date": "2026-10-21",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "KdLOEgQro8c",
+            "title": "伊勢崎オートレース中継 2026年10月21日 WINTICKET・山口シネマ杯GⅡオートレースメモリアル　1日目",
+            "url": "https://www.youtube.com/watch?v=KdLOEgQro8c",
+            "categories": [],
+            "publishedAt": "2026-10-21T21:47:46+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038837",
+            "title": "GIIオートレースメモリアル 得点表（1日目）",
+            "url": "https://autorace.jp/news/2026/10/21/038837/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-21T21:27:37+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038836",
+            "title": "【日刊提供】追加斡旋で出場となった亀井政和が、6R地区対抗予選で幸先よく1着を飾る／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/21/038836/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-21T21:20:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038835",
+            "title": "【日刊提供】中野憲人が白星発進／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/21/038835/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-21T21:20:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038834",
+            "title": "【日刊提供】S級の鈴木宏和が、1Rメモリアル開幕戦を制す／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/21/038834/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-21T21:20:01+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610210001417",
+            "title": "【オートレース】中野憲人が3R地区対抗予選を勝利「直線が出てくれて思ったより動いた」伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610210001417.html",
+            "categories": [],
+            "publishedAt": "2026-10-21T21:19:18+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "j5W6nZjwTDA",
+            "title": "【GⅡ初日/ダイジェスト】GⅡ#オートレースメモリアル (伊勢崎)（2026.10.21）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=j5W6nZjwTDA",
+            "categories": [],
+            "publishedAt": "2026-10-21T21:14:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610210001415",
+            "title": "【オートレース】鈴木宏和がメモリアル開幕戦を快勝、前節から６連続の２連対マーク／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610210001415.html",
+            "categories": [],
+            "publishedAt": "2026-10-21T20:38:21+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610210001420",
+            "title": "【オートレース】亀井政和が6Rを制す　キャブ調整＆前後タイヤ交換が奏功／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610210001420.html",
+            "categories": [],
+            "publishedAt": "2026-10-21T20:29:56+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038833",
+            "title": "2026年10月21日 飯塚ミッドナイト 整備情報",
+            "url": "https://autorace.jp/news/2026/10/21/038833/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-10-21T19:55:33+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "bfT67DaIz3A",
+            "title": "東西の実力者が激突 幻のSGレース！第3回東西チャンピオンカップ #オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=bfT67DaIz3A",
+            "categories": [],
+            "publishedAt": "2026-10-21T19:00:33+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13651",
+            "title": "【11月7日】「第6回 埼玉高速鉄道 埼スタ線杯」先着プレゼントのご案内",
+            "url": "https://www.kawaguchiauto.jp/news/20261021/",
+            "categories": [],
+            "publishedAt": "2026-10-21T17:57:01+09:00"
+        },
+        {
             "source": "sanyo",
             "sourceName": "山陽オート",
             "id": "4037",

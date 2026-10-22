@@ -2,6 +2,114 @@
     "date": "2026-10-22",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038848",
+            "title": "【日刊提供】タイヤ交換して連勝の佐藤貴也は「それ以上の動き」／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/22/038848/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-22T21:55:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038847",
+            "title": "【日刊提供】3着の松本康は「セッティングで対応したい」趣味のコーヒー作り同様に模索／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/22/038847/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-22T21:55:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038846",
+            "title": "【日刊提供】山陽1位に返り咲きの丹村飛竜は惜敗も「感触は良かった」／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/22/038846/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-22T21:55:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038837",
+            "title": "GIIオートレースメモリアル 得点表（2日目）",
+            "url": "https://autorace.jp/news/2026/10/22/038837/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-22T21:27:37+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "cw2QNmKYLio",
+            "title": "【GⅡ2日目/ダイジェスト】GⅡ#オートレースメモリアル (伊勢崎)（2026.10.22）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=cw2QNmKYLio",
+            "categories": [],
+            "publishedAt": "2026-10-22T21:15:13+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001658",
+            "title": "【オートレース】佐藤貴也２連勝「あとは細かい調整ですね」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610220001658.html",
+            "categories": [],
+            "publishedAt": "2026-10-22T20:41:04+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001619",
+            "title": "【オートレース】「難易度は高いです」松本康がマシン調整と同じほど熱中するものは／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610220001619.html",
+            "categories": [],
+            "publishedAt": "2026-10-22T20:24:51+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001548",
+            "title": "【オートレース】丹村飛竜が上昇ムード「乗っている感触は良かったですよ」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610220001548.html",
+            "categories": [],
+            "publishedAt": "2026-10-22T20:19:22+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038845",
+            "title": "2026年10月22日 飯塚ミッドナイト出走表・飯塚ミッドナイト 整備情報",
+            "url": "https://autorace.jp/news/2026/10/22/038845/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-10-22T19:51:54+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "uKKHjOpQ-O0",
+            "title": "【オートレースリブランディング】東京・丸の内「THE TOBACCO 2:50.76」をジャック！オートレースの熱を表現した特別な空間を体感せよ！ #autorace #オートレース #shorts",
+            "url": "https://www.youtube.com/watch?v=uKKHjOpQ-O0",
+            "categories": [],
+            "publishedAt": "2026-10-22T19:00:06+09:00"
+        },
+        {
             "source": "kawaguchi",
             "sourceName": "川口オートレース",
             "id": "13662",

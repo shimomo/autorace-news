@@ -13,17 +13,6 @@
         {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
-            "id": "038837",
-            "title": "GIIオートレースメモリアル 得点表（1日目）",
-            "url": "https://autorace.jp/news/2026/10/21/038837/",
-            "categories": [
-                "ニュース"
-            ],
-            "publishedAt": "2026-10-21T21:27:37+09:00"
-        },
-        {
-            "source": "autorace.jp",
-            "sourceName": "AUTORACE.JP",
             "id": "038836",
             "title": "【日刊提供】追加斡旋で出場となった亀井政和が、6R地区対抗予選で幸先よく1着を飾る／伊勢崎",
             "url": "https://autorace.jp/news/2026/10/21/038836/",
@@ -126,6 +115,17 @@
             "url": "https://www.kawaguchiauto.jp/news/20261021/",
             "categories": [],
             "publishedAt": "2026-10-21T17:57:01+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7077",
+            "title": "【サンケイスポーツ杯GⅡレジェンドカップ】特別観覧席入場券　先行販売について",
+            "url": "https://www.isesaki-auto.jp/7077/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-21T10:00:44+09:00"
         },
         {
             "source": "sanyo",

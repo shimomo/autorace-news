@@ -157,11 +157,6 @@
         "2024-11-17",
         "2024-07-14"
     ],
-    "checkedAt": "2026-10-24T03:23:04+09:00",
-    "failures": [
-        {
-            "source": "kawaguchi",
-            "message": "GET https://www.kawaguchiauto.jp/news/feed/ failed: Idle timeout reached for \"https://www.kawaguchiauto.jp/news/feed/\"."
-        }
-    ]
+    "checkedAt": "2026-10-24T07:12:38+09:00",
+    "failures": []
 }

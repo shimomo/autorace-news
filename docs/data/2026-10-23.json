@@ -2,6 +2,124 @@
     "date": "2026-10-23",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038854",
+            "title": "【日刊提供】湿走路得意の吉原恭佑が準決勝突破へ意欲「雨は悪くないので歓迎」／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/23/038854/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-23T21:30:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038853",
+            "title": "【日刊提供】「クランク交換で見違える動き」今期A級降格の木村武之が連勝で復調モード／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/23/038853/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-23T21:30:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038852",
+            "title": "【日刊提供】中山光が2年ぶりのグレード優勝戦へ「セッティングとタイヤ探し」／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/23/038852/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-23T21:30:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038837",
+            "title": "GIIオートレースメモリアル 得点表（3日目）",
+            "url": "https://autorace.jp/news/2026/10/23/038837/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-23T21:27:37+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "hvUhbL-mCK8",
+            "title": "【GⅡ3日目/ダイジェスト】GⅡ#オートレースメモリアル (伊勢崎)（2026.10.23）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=hvUhbL-mCK8",
+            "categories": [],
+            "publishedAt": "2026-10-23T21:08:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001516",
+            "title": "【オートレース】木村武之がシリーズ2勝目で復活ののろし「ここまで本当に長かった」伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001516.html",
+            "categories": [],
+            "publishedAt": "2026-10-23T20:47:13+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001500",
+            "title": "【オートレース】中山光が約２年ぶり優勝戦目指し評判のアウト全速走法を駆使する／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001500.html",
+            "categories": [],
+            "publishedAt": "2026-10-23T20:17:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001507",
+            "title": "【オートレース】「伊勢崎の雨は悪くないので歓迎」雨巧者の吉原恭佑が準決突破意欲／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001507.html",
+            "categories": [],
+            "publishedAt": "2026-10-23T20:16:15+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13683",
+            "title": "【ホールショット】システム緊急メンテナンスに伴うWebサイト停止のお知らせ",
+            "url": "https://www.kawaguchiauto.jp/news/202610holeshot/",
+            "categories": [],
+            "publishedAt": "2026-10-23T19:39:59+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "EfSmzGgLQMY",
+            "title": "慌てず騒がず泰然自若！ベテランのチョイ差し決まる!! 笠木美孝 #オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=EfSmzGgLQMY",
+            "categories": [],
+            "publishedAt": "2026-10-23T19:00:17+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038822",
+            "title": "[YouTubeライブ配信のお知らせ] 【ガチ予想LIVE】みんなオトもっち by AUTORACE.JP投票 GIIオートレースメモリアル",
+            "url": "https://autorace.jp/news/2026/10/23/038822/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "伊勢崎",
+                "pickup"
+            ],
+            "publishedAt": "2026-10-23T16:00:00+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "6q3CchwxUTs",
@@ -55,7 +173,7 @@
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "BiuBEuRWci4",
-            "title": "38期新人王の壷井亜羅汰！さらなる飛躍へ!!逃げ切り優勝#オートレース #autorace #飯塚オート #motorsport #モータースポーツ #shorts",
+            "title": "38期新人王 壷井亜羅汰が逃げ切り優勝！さらなる飛躍へ!! #オートレース #autorace #飯塚オート #motorsport #モータースポーツ #shorts",
             "url": "https://www.youtube.com/watch?v=BiuBEuRWci4",
             "categories": [],
             "publishedAt": "2026-10-23T07:10:55+09:00"

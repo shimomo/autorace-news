@@ -2,6 +2,33 @@
     "date": "2026-10-23",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "6q3CchwxUTs",
+            "title": "浜松オートレース中継 2026年10月23日 AUTORACE.JP投票杯オトもっちカップ　浜松アーリーレース　1日目",
+            "url": "https://www.youtube.com/watch?v=6q3CchwxUTs",
+            "categories": [],
+            "publishedAt": "2026-10-23T14:30:29+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "AcswAphrpEE",
+            "title": "伊勢崎オートレース中継 2026年10月22日 WINTICKET・山口シネマ杯GⅡオートレースメモリアル　2日目",
+            "url": "https://www.youtube.com/watch?v=AcswAphrpEE",
+            "categories": [],
+            "publishedAt": "2026-10-23T14:17:33+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "xZkBeIe-JGc",
+            "title": "[発祥の日 ver.] AUTORACE NEW TEASER ”やきつけろ”",
+            "url": "https://www.youtube.com/watch?v=xZkBeIe-JGc",
+            "categories": [],
+            "publishedAt": "2026-10-23T11:57:37+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038720",

@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-10-24",
         "2026-10-23",
         "2026-10-22",
         "2026-10-21",
@@ -156,6 +157,11 @@
         "2024-11-17",
         "2024-07-14"
     ],
-    "checkedAt": "2026-10-23T22:28:21+09:00",
-    "failures": []
+    "checkedAt": "2026-10-24T03:23:04+09:00",
+    "failures": [
+        {
+            "source": "kawaguchi",
+            "message": "GET https://www.kawaguchiauto.jp/news/feed/ failed: Idle timeout reached for \"https://www.kawaguchiauto.jp/news/feed/\"."
+        }
+    ]
 }

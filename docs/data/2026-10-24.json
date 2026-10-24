@@ -2,6 +2,81 @@
     "date": "2026-10-24",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038859",
+            "title": "【日刊提供】「試走から手応えあった」34期の横田翔紀が今節初勝利／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/24/038859/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-24T22:20:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038858",
+            "title": "【日刊提供】「借り返すつもりで走りたい」荒尾聡が先月優勝戦落車のリベンジへ／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/24/038858/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-24T22:20:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038857",
+            "title": "【日刊提供】若手エース候補の浅倉樹良が準決勝突破「優勝したい」グレード初制覇目指す／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/24/038857/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-24T22:20:01+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "WLv6Yf9oLWw",
+            "title": "伊勢崎オートレース中継 2026年10月24日 WINTICKET・山口シネマ杯GⅡオートレースメモリアル　4日目",
+            "url": "https://www.youtube.com/watch?v=WLv6Yf9oLWw",
+            "categories": [],
+            "publishedAt": "2026-10-24T22:01:41+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001574",
+            "title": "【オートレース】「お客さんに迷惑をかけた。その借りを返す」荒尾聡が優勝戦へ決意／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001574.html",
+            "categories": [],
+            "publishedAt": "2026-10-24T21:32:26+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001560",
+            "title": "【オートレース】「地元のグレード戦で優勝したい」浅倉樹良が待望グレード初制覇王手／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001560.html",
+            "categories": [],
+            "publishedAt": "2026-10-24T21:27:36+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "u1nxFqDsswY",
+            "title": "【GⅡ準決勝戦/ダイジェスト】GⅡ#オートレースメモリアル (伊勢崎)｜優出インタビュー映像あり（2026.10.24） #オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=u1nxFqDsswY",
+            "categories": [],
+            "publishedAt": "2026-10-24T21:24:14+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202610240001230",

@@ -2,6 +2,90 @@
     "date": "2026-10-24",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001230",
+            "title": "【オートレース】横田翔紀が果敢に仕掛け今節初勝利「少しずつでも成長できたら」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001230.html",
+            "categories": [],
+            "publishedAt": "2026-10-24T19:40:45+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "DiRhvNM2tOc",
+            "title": "『SWITCH OFF』番外編【異種4競技麻雀対決】Vol.1公開中！競技の垣根を越えた“勝負師同士の麻雀対決”が実現！ #オートレース #autorace #麻雀 #shorts",
+            "url": "https://www.youtube.com/watch?v=DiRhvNM2tOc",
+            "categories": [],
+            "publishedAt": "2026-10-24T19:00:14+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4926",
+            "title": "【本場開催のご案内】10/29～11/3「オッズパークpresentsSG第58回日本選手権オートレース」イベント情報更新(10/24更新)",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4926",
+            "categories": [],
+            "publishedAt": "2026-10-24T17:54:35+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240000800",
+            "title": "【オートレース】3Rは落車事故によるオイル漏れが発生し不成立　6Rから再開／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610240000800.html",
+            "categories": [],
+            "publishedAt": "2026-10-24T17:06:33+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240000758",
+            "title": "【オートレース】永井大介が異種４競技対決！　マージャンで真剣勝負",
+            "url": "https://www.nikkansports.com/public_race/news/202610240000758.html",
+            "categories": [],
+            "publishedAt": "2026-10-24T16:51:33+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13662",
+            "title": "【重要】スターカード及びwebKAのご利用について",
+            "url": "https://www.kawaguchiauto.jp/news/20261022-2/",
+            "categories": [],
+            "publishedAt": "2026-10-24T16:50:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "9yqJptJo7fo",
+            "title": "【異種4競技麻雀対決】『SWITCH OFF』番外編（Vol.1）｜公営競技3競技のトップレーサーvs人気Mリーガーの超豪華異種麻雀バトル開幕！",
+            "url": "https://www.youtube.com/watch?v=9yqJptJo7fo",
+            "categories": [],
+            "publishedAt": "2026-10-24T15:00:29+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038849",
+            "title": "公営競技3競技のレジェンドvs人気Mリーガー！「異種4競技麻雀対決」が実現！YouTube企画『SWITCH OFF』番外編！",
+            "url": "https://autorace.jp/news/event/2026/10/24/038849/",
+            "categories": [
+                "イベント情報",
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-24T15:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "Nl5H_kZJZ54",
+            "title": "浜松オートレース中継 2026年10月24日 AUTORACE.JP投票杯オトもっちカップ　浜松アーリーレース　2日目",
+            "url": "https://www.youtube.com/watch?v=Nl5H_kZJZ54",
+            "categories": [],
+            "publishedAt": "2026-10-24T14:26:31+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038851",
@@ -21,15 +105,6 @@
             "url": "https://www.nikkansports.com/public_race/info/news/202610210000216.html",
             "categories": [],
             "publishedAt": "2026-10-24T12:00:00+09:00"
-        },
-        {
-            "source": "kawaguchi",
-            "sourceName": "川口オートレース",
-            "id": "13662",
-            "title": "【重要】10月24日のスターカード及びwebKAのご利用について",
-            "url": "https://www.kawaguchiauto.jp/news/20261022-2/",
-            "categories": [],
-            "publishedAt": "2026-10-24T09:59:33+09:00"
         },
         {
             "source": "autorace.jp",

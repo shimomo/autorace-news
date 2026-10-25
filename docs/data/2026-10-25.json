@@ -2,6 +2,15 @@
     "date": "2026-10-25",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "x5ab-TochRY",
+            "title": "浜松オートレース中継 2026年10月25日 AUTORACE.JP投票杯オトもっちカップ　浜松アーリーレース　最終日",
+            "url": "https://www.youtube.com/watch?v=x5ab-TochRY",
+            "categories": [],
+            "publishedAt": "2026-10-25T14:40:11+09:00"
+        },
+        {
             "source": "hamamatsu",
             "sourceName": "浜松オート",
             "id": "4548",

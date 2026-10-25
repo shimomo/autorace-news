@@ -4,6 +4,70 @@
         {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
+            "id": "0H42_Ce6HUM",
+            "title": "【ガチ予想LIVE】みんなオトもっち by AUTORACE.JP投票 GIIオートレースメモリアル",
+            "url": "https://www.youtube.com/watch?v=0H42_Ce6HUM",
+            "categories": [],
+            "publishedAt": "2026-10-25T21:56:18+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7215",
+            "title": "WINTICKET・山口シネマ杯GⅡオートレースメモリアル　優勝者は松本康選手",
+            "url": "https://www.isesaki-auto.jp/7215/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-25T21:53:58+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "033922",
+            "title": "【銀行直結会員】一括精算 実施完了のお知らせ（PayPay銀行、ゆうちょ銀行） - AUTORACE.JP投票",
+            "url": "https://autorace.jp/news/voteinfo/2026/10/25/033922/",
+            "categories": [
+                "ニュース",
+                "ネット投票お知らせ",
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-25T21:50:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038856",
+            "title": "【YouTube】阪田マリンさんが浜松を探訪！！特別ゲストも参戦！！",
+            "url": "https://autorace.jp/news/2026/10/25/038856/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "総合（旧）"
+            ],
+            "publishedAt": "2026-10-25T21:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "YSo6WL9WtEQ",
+            "title": "阪田マリンの昭和を探す旅　#オートレース #SG日本選手権オートレース #浜松市 #阪田マリン #昭和レトロ",
+            "url": "https://www.youtube.com/watch?v=YSo6WL9WtEQ",
+            "categories": [],
+            "publishedAt": "2026-10-25T20:08:03+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "1icTbDZ6Jz0",
+            "title": "【異種4競技麻雀対決】『SWITCH OFF』番外編 Vol.1公開中！公営競技のトップレーサーたちはどんな休日を過ごしている？？ #オートレース #autorace #麻雀 #shorts",
+            "url": "https://www.youtube.com/watch?v=1icTbDZ6Jz0",
+            "categories": [],
+            "publishedAt": "2026-10-25T19:00:26+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
             "id": "x5ab-TochRY",
             "title": "浜松オートレース中継 2026年10月25日 AUTORACE.JP投票杯オトもっちカップ　浜松アーリーレース　最終日",
             "url": "https://www.youtube.com/watch?v=x5ab-TochRY",

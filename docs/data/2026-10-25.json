@@ -2,6 +2,122 @@
     "date": "2026-10-25",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038863",
+            "title": "【日刊提供】鈴木圭一郎は混戦を攻略できず4着に敗れる／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/25/038863/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-25T22:50:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038862",
+            "title": "【日刊提供】3着に敗れた青山周平「抜かれてしまう自分がいけない」／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/25/038862/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-25T22:50:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038861",
+            "title": "【日刊提供】地元松本康がグレードレース初制覇／伊勢崎",
+            "url": "https://autorace.jp/news/2026/10/25/038861/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-25T22:50:01+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "cgw2Veybj0Y",
+            "title": "【優出選手・優勝者インタビュー映像あり】【GⅡ優勝戦/ダイジェスト】GⅡ#オートレースメモリアル (伊勢崎)（2026.10.25）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=cgw2Veybj0Y",
+            "categories": [],
+            "publishedAt": "2026-10-25T22:40:12+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038860",
+            "title": "WINTICKET・山口シネマ杯GIIオートレースメモリアルの優勝戦速報をUPしました",
+            "url": "https://autorace.jp/news/2026/10/25/038860/",
+            "categories": [
+                "ニュース",
+                "ビックレース回顧",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-10-25T22:30:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "g3xR09caoCc",
+            "title": "伊勢崎オートレース中継 2026年10月25日 WINTICKET・山口シネマ杯GⅡオートレースメモリアル　最終日",
+            "url": "https://www.youtube.com/watch?v=g3xR09caoCc",
+            "categories": [],
+            "publishedAt": "2026-10-25T22:16:55+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001760",
+            "title": "【オートレース】今年初Ｖ狙った鈴木圭一郎は４着「いいスタートが切れたけど…」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001760.html",
+            "categories": [],
+            "publishedAt": "2026-10-25T22:14:10+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001805",
+            "title": "【オートレース】青山周平は先頭守れず３着「抜かれてしまう自分がいけないですね」／伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001805.html",
+            "categories": [],
+            "publishedAt": "2026-10-25T22:13:31+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001780",
+            "title": "【オートレース】総売り上げは11億9223万9500円／伊勢崎G2　　",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001780.html",
+            "categories": [],
+            "publishedAt": "2026-10-25T22:12:59+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001776",
+            "title": "【オートレース】松本康がグレードレース初Ｖ「ファンに感謝の気持ちでいっぱいです」伊勢崎G2",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001776.html",
+            "categories": [],
+            "publishedAt": "2026-10-25T22:11:23+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "d5ShzdTG9js",
+            "title": "【速報】ＧⅡオートレースメモリアル 優勝は松本康！#オートレース #autorace #伊勢崎オート #motorsport #モータースポーツ #G2 #shorts",
+            "url": "https://www.youtube.com/watch?v=d5ShzdTG9js",
+            "categories": [],
+            "publishedAt": "2026-10-25T21:59:21+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "0H42_Ce6HUM",

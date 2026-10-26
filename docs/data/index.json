@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-10-26",
         "2026-10-25",
         "2026-10-24",
         "2026-10-23",
@@ -158,11 +159,6 @@
         "2024-11-17",
         "2024-07-14"
     ],
-    "checkedAt": "2026-10-26T15:16:11+09:00",
-    "failures": [
-        {
-            "source": "youtube",
-            "message": "GET https://www.youtube.com/feeds/videos.xml?channel_id=UCJAPqcMNYk3HMknRuPMNvKA returned HTTP 404."
-        }
-    ]
+    "checkedAt": "2026-10-26T22:16:54+09:00",
+    "failures": []
 }

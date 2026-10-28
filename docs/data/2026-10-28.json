@@ -2,6 +2,24 @@
     "date": "2026-10-28",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "lAQrIkkBBWM",
+            "title": "飯塚オートレース中継 2026年10月27日 スマイルボンバー天夜叉杯　2日目",
+            "url": "https://www.youtube.com/watch?v=lAQrIkkBBWM",
+            "categories": [],
+            "publishedAt": "2026-10-28T09:59:15+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "YuE0576rS7U",
+            "title": "【開幕直前】10.29開幕!! SG日本選手権オートレース！ハンデなし！最高峰の戦いで日本一が決まる!! #オートレース #autorace #浜松オート #motorsport #shorts",
+            "url": "https://www.youtube.com/watch?v=YuE0576rS7U",
+            "categories": [],
+            "publishedAt": "2026-10-28T07:00:16+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202610270001589",

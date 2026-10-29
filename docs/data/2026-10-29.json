@@ -2,6 +2,87 @@
     "date": "2026-10-29",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13662",
+            "title": "【重要】【10月30日より復旧いたします】スターカード及びwebKAのご利用について",
+            "url": "https://www.kawaguchiauto.jp/news/20261022-2/",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290000707",
+            "title": "【オートレース】栗原佳祐の10連勝報告会開催「こういう機会で達成できてうれしい」／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610290000707.html",
+            "categories": [],
+            "publishedAt": "2026-10-29T14:24:05+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290000712",
+            "title": "【オートレース】「また取り返さないといけない」佐藤励が優勝旗返還セレモニーで決意／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610290000712.html",
+            "categories": [],
+            "publishedAt": "2026-10-29T14:19:55+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038886",
+            "title": "オトもっちグッズ 商品ラインナップ更新のお知らせ！",
+            "url": "https://autorace.jp/news/fanclub/2026/10/29/038886/",
+            "categories": [
+                "ニュース",
+                "ファンクラブ"
+            ],
+            "publishedAt": "2026-10-29T13:00:00+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4926",
+            "title": "【本場開催のご案内】10/29～11/3「オッズパークpresentsSG第58回日本選手権オートレース」イベント情報更新(10/29更新)",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4926",
+            "categories": [],
+            "publishedAt": "2026-10-29T11:56:20+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038888",
+            "title": "栗原佳祐選手自身初の10連勝表彰式／浜松",
+            "url": "https://autorace.jp/news/2026/10/29/038888/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-29T11:20:00+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4067",
+            "title": "【受付期間延長】日刊スポーツGⅡ第37回若獅子杯争奪戦　横断幕の掲出について",
+            "url": "https://sanyoauto.jp/topics/banner-guide/202610294067.html",
+            "categories": [
+                "横断幕の掲出"
+            ],
+            "publishedAt": "2026-10-29T10:50:22+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "DN5K4o3pDPo",
+            "title": "【公式ファンクラブ】AUTORACE COLLECTION - COMING SOON",
+            "url": "https://www.youtube.com/watch?v=DN5K4o3pDPo",
+            "categories": [],
+            "publishedAt": "2026-10-29T09:00:36+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038797",
@@ -27,6 +108,15 @@
                 "pickup"
             ],
             "publishedAt": "2026-10-29T09:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "f1vwb9WFQHc",
+            "title": "SG日本選手権オートレースの軌跡！第3回大会優勝は広瀬登喜夫！ 日本一を懸けた究極のオープン戦 #オートレース #autorace #バイク #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=f1vwb9WFQHc",
+            "categories": [],
+            "publishedAt": "2026-10-29T07:00:28+09:00"
         }
     ]
 }

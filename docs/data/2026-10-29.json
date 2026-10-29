@@ -2,6 +2,17 @@
     "date": "2026-10-29",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13720",
+            "title": "テレ玉presents 川口ナイトレース 桝﨑 星名選手(2026/10/29)",
+            "url": "https://www.kawaguchiauto.jp/interview/20261029/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-10-29T23:39:43+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038897",

@@ -2,6 +2,15 @@
     "date": "2026-10-30",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13702",
+            "title": "【11月3日・4日】「テレ玉presents 川口ナイトレース」 裏実況LIVE配信のお知らせ！",
+            "url": "https://www.kawaguchiauto.jp/news/20261029_nightrace/",
+            "categories": [],
+            "publishedAt": "2026-10-30T10:00:00+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "rISTXFhFxjU",

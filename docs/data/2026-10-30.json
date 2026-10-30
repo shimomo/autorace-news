@@ -2,6 +2,167 @@
     "date": "2026-10-30",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001777",
+            "title": "【オートレース】高橋義弘は湿走路でも好走４着　天気が回復する３日目は注目／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610300001777.html",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:59:32+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038906",
+            "title": "【日刊提供】「みなさんのおかげ」初日2着惜敗の金子大輔が1000勝達成／浜松",
+            "url": "https://autorace.jp/news/2026/10/30/038906/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-30T19:55:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038905",
+            "title": "【日刊提供】平田雅崇は2着にも「これじゃダメ」整備して3日目に備える／浜松",
+            "url": "https://autorace.jp/news/2026/10/30/038905/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-30T19:55:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038904",
+            "title": "【日刊提供】「ごちゃごちゃした展開になったが」高橋義弘が湿走路で好走／浜松",
+            "url": "https://autorace.jp/news/2026/10/30/038904/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-30T19:55:01+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001767",
+            "title": "【オートレース】平田雅崇は何とかしのぎ２着　３日目は連勝の佐藤貴也と勝負／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610300001767.html",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:53:16+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001764",
+            "title": "【オートレース】上昇ムード伊藤信夫は２着にも満足感「上出来」と初勝利狙う／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610300001764.html",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:51:45+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001755",
+            "title": "【オートレース】金子大輔が36人目の通算1000勝達成「やっと解放された！」／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610300001755.html",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:46:01+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "2266",
+            "title": "メインスタンド有料席当日前売り販売変更について",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/2266",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:22:28+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "530YRBckTAg",
+            "title": "金子大輔が史上36目の偉業1000勝を達成！明日以降のレースに弾みをつける#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=530YRBckTAg",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:00:04+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038903",
+            "title": "【日刊提供】2日目 フォトギャラリー（10月30日）",
+            "url": "https://autorace.jp/news/2026/10/30/038903/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-30T18:16:29+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038901",
+            "title": "【スポニチアネックス提供】青山周平　試走で圧倒、8枠も問題なし　さらに上積み狙っていく",
+            "url": "https://autorace.jp/news/2026/10/30/038901/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-30T18:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038902",
+            "title": "【報知提供】史上36人目の1000勝レーサーとなった金子大輔「できるだけ早く決めたかった。うれしいですよ」～浜松SG",
+            "url": "https://autorace.jp/news/2026/10/30/038902/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-30T18:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038889",
+            "title": "SG第58回日本選手権オートレース 得点表（2日目）",
+            "url": "https://autorace.jp/news/2026/10/30/038889/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-30T17:41:41+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "ybpDQ6oNQEA",
+            "title": "浜松オートレース中継 2026年10月30日 オッズパークpresents SG第58回日本選手権オートレース　2日目",
+            "url": "https://www.youtube.com/watch?v=ybpDQ6oNQEA",
+            "categories": [],
+            "publishedAt": "2026-10-30T17:14:02+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "NT2xlUnrMEk",
+            "title": "【SG2日目/ダイジェスト】SG第58回#日本選手権オートレース (浜松)｜1着選手インタビュー映像あり（2026.10.30） #オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=NT2xlUnrMEk",
+            "categories": [],
+            "publishedAt": "2026-10-30T16:45:21+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038900",

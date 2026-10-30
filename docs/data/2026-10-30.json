@@ -2,6 +2,29 @@
     "date": "2026-10-30",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038900",
+            "title": "金子大輔選手(浜松:29期)が史上36人目の1000勝達成！",
+            "url": "https://autorace.jp/news/2026/10/30/038900/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-30T15:00:00+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3873",
+            "title": "１０月３０日 山陽ミッドナイト出場選手コメント🎤✨",
+            "url": "https://sanyoauto.jp/topics/midnight-comment/202610303873.html",
+            "categories": [
+                "ミッドナイトオートレース選手コメント"
+            ],
+            "publishedAt": "2026-10-30T10:30:52+09:00"
+        },
+        {
             "source": "kawaguchi",
             "sourceName": "川口オートレース",
             "id": "13702",
@@ -9,6 +32,15 @@
             "url": "https://www.kawaguchiauto.jp/news/20261029_nightrace/",
             "categories": [],
             "publishedAt": "2026-10-30T10:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "vJiczqKTx_A",
+            "title": "中山光が得意のアウト全速走法で追い上げ意表を突いた切り返しで勝利を掴む！#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=vJiczqKTx_A",
+            "categories": [],
+            "publishedAt": "2026-10-30T07:00:35+09:00"
         },
         {
             "source": "youtube",

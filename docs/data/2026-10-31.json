@@ -2,6 +2,169 @@
     "date": "2026-10-31",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038912",
+            "title": "【報知提供】佐藤励、もがき続けた2026年...SGは残り2つ「すべてを取り戻すような成績を挙げることができたら」",
+            "url": "https://autorace.jp/news/2026/10/31/038912/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-31T19:30:27+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038911",
+            "title": "【日刊提供】3日目4着の新井日和「スタートはタイミングから」最終予選で逃げに持ち込む／浜松",
+            "url": "https://autorace.jp/news/2026/10/31/038911/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-31T19:20:03+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310001600",
+            "title": "【オートレース】「スタートはタイミングから攻めたい」新井日和が最終予選7Rは逃げに持ち込む／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610310001600.html",
+            "categories": [],
+            "publishedAt": "2026-10-31T19:05:19+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "IQZUOK4bk0I",
+            "title": "篠原睦スタートで遅れるも反撃の捌きでシリーズ初勝利！#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=IQZUOK4bk0I",
+            "categories": [],
+            "publishedAt": "2026-10-31T19:00:39+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038910",
+            "title": "【日刊提供】6月に落車負傷し今月復帰の石本圭耶は波乱の目となれるか／浜松",
+            "url": "https://autorace.jp/news/2026/10/31/038910/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-31T18:55:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038909",
+            "title": "【日刊提供】「エンジン悪くない」飯塚地区1位返り咲きの荒尾聡が連勝／浜松",
+            "url": "https://autorace.jp/news/2026/10/31/038909/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-31T18:55:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038908",
+            "title": "【スポニチアネックス提供】黒川京介が4人目の3連勝　追いすがる北原岳哲を振り切る",
+            "url": "https://autorace.jp/news/2026/10/31/038908/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-31T18:20:01+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "oyZHMlONJzQ",
+            "title": "浜松オートレース中継 2026年10月31日 オッズパークpresents SG第58回日本選手権オートレース　3日目",
+            "url": "https://www.youtube.com/watch?v=oyZHMlONJzQ",
+            "categories": [],
+            "publishedAt": "2026-10-31T18:17:51+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310001428",
+            "title": "【オートレース】スタート力が魅力の石本圭耶「エンジンは悪い状態ではない」／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610310001428.html",
+            "categories": [],
+            "publishedAt": "2026-10-31T17:54:57+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038889",
+            "title": "SG第58回日本選手権オートレース 得点表（3日目）",
+            "url": "https://autorace.jp/news/2026/10/31/038889/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-10-31T17:41:41+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038907",
+            "title": "【日刊提供】3日目 フォトギャラリー（10月31日）",
+            "url": "https://autorace.jp/news/2026/10/31/038907/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-10-31T17:23:36+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310001229",
+            "title": "【オートレース】荒尾聡が力強い走りで連勝「初日よりも感じは良かった」／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202610310001229.html",
+            "categories": [],
+            "publishedAt": "2026-10-31T16:55:10+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "xnhg-Mojjnw",
+            "title": "【SG3日目/ダイジェスト】SG第58回#日本選手権オートレース (浜松)｜1着選手インタビュー映像あり（2026.10.31） #オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=xnhg-Mojjnw",
+            "categories": [],
+            "publishedAt": "2026-10-31T16:50:11+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3873",
+            "title": "１０月３１日 山陽ミッドナイト出場選手コメント🎤✨",
+            "url": "https://sanyoauto.jp/topics/midnight-comment/202610313873.html",
+            "categories": [
+                "ミッドナイトオートレース選手コメント"
+            ],
+            "publishedAt": "2026-10-31T15:25:52+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "M-HmrsFO-gQ",
+            "title": "37期の新鋭 森下輝がぶっちぎりで日本選手権初勝利！#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=M-HmrsFO-gQ",
+            "categories": [],
+            "publishedAt": "2026-10-31T07:00:10+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "kCM3R_tX0ts",

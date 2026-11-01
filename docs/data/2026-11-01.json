@@ -2,6 +2,29 @@
     "date": "2026-11-01",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038877",
+            "title": "冬のはじまりをあたたかく。11月の投票キャンペーン 2026年11月1日(日)～30日(月)",
+            "url": "https://autorace.jp/news/campaign/2026/11/01/038877/",
+            "categories": [
+                "キャンペーン情報",
+                "ニュース",
+                "ネット投票お知らせ",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-01T10:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "6pkwriC1jlg",
+            "title": "佐藤励トップスタートで圧勝、シリーズ3連勝！#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=6pkwriC1jlg",
+            "categories": [],
+            "publishedAt": "2026-11-01T07:00:17+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "gG8TipTv9jQ",

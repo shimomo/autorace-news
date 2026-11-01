@@ -2,6 +2,38 @@
     "date": "2026-11-01",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611010000652",
+            "title": "【オートレース】SGスーパースター王座決定戦TR出場資格の各場競走成績１位選手を発表",
+            "url": "https://www.nikkansports.com/public_race/news/202611010000652.html",
+            "categories": [],
+            "publishedAt": "2026-11-01T13:06:56+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038915",
+            "title": "【各場競走成績第１位選手が決定！】スーパースターへの道 2026 をアップしました！",
+            "url": "https://autorace.jp/news/2026/11/01/038915/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-01T12:20:26+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "3873",
+            "title": "１１月１日 山陽ミッドナイト出場選手コメント🎤✨",
+            "url": "https://sanyoauto.jp/topics/midnight-comment/202611013873.html",
+            "categories": [
+                "ミッドナイトオートレース選手コメント"
+            ],
+            "publishedAt": "2026-11-01T11:25:52+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038877",

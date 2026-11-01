@@ -2,6 +2,189 @@
     "date": "2026-11-01",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038913",
+            "title": "【準決勝戦予想（日刊スポーツ）】SG第58回日本選手権オートレース",
+            "url": "https://autorace.jp/news/raceinfo/2026/11/01/038913/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T20:10:49+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038923",
+            "title": "【報知提供】長田稚也、SGを獲るいつかは、もうそこまで来ている",
+            "url": "https://autorace.jp/news/2026/11/01/038923/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T19:50:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "D6j8o05h1Es",
+            "title": "浜松オートレース中継 2026年11月1日 オッズパークpresents SG第58回日本選手権オートレース　4日目",
+            "url": "https://www.youtube.com/watch?v=D6j8o05h1Es",
+            "categories": [],
+            "publishedAt": "2026-11-01T19:42:39+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038922",
+            "title": "【日刊提供】「エンジンもいい状態」桝崎陽介が15年オールスター以来のSG優出へ／浜松",
+            "url": "https://autorace.jp/news/2026/11/01/038922/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T19:30:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038921",
+            "title": "【日刊提供】「練習します」4連勝にも表情険しい佐藤励は集中切らさず準決勝に臨む／浜松",
+            "url": "https://autorace.jp/news/2026/11/01/038921/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T19:30:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038920",
+            "title": "【日刊提供】吉林直都が準決勝進出「期待してください」2年連続ベスト8入り目指す／浜松",
+            "url": "https://autorace.jp/news/2026/11/01/038920/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T19:30:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038919",
+            "title": "【スポニチアネックス提供】鈴木圭一郎　スタートで伸びて4連勝　独走で良さを引き出したい",
+            "url": "https://autorace.jp/news/2026/11/01/038919/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T19:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611010001657",
+            "title": "【オートレース】桝崎陽介が調整効果発揮し２着好走も「欲言えばもう少し力強さが…」／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611010001657.html",
+            "categories": [],
+            "publishedAt": "2026-11-01T19:11:49+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "cTyq13c4kP4",
+            "title": "好調の荒尾聡がスタート好位置から安定の捌き！3連勝で準決勝へ！#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=cTyq13c4kP4",
+            "categories": [],
+            "publishedAt": "2026-11-01T19:00:01+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611010001583",
+            "title": "【オートレース】佐藤励が４連勝にも満足感なし「集中を切らさずいきたい」／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611010001583.html",
+            "categories": [],
+            "publishedAt": "2026-11-01T18:54:13+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038889",
+            "title": "SG第58回日本選手権オートレース 得点表（4日目）",
+            "url": "https://autorace.jp/news/2026/11/01/038889/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-01T18:41:41+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038918",
+            "title": "【日刊提供】4日目 フォトギャラリー（11月1日）",
+            "url": "https://autorace.jp/news/2026/11/01/038918/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-01T18:29:07+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611010001488",
+            "title": "【オートレース】地元の吉林直都が昨年に続く２大会連続優勝戦進出へ前進／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611010001488.html",
+            "categories": [],
+            "publishedAt": "2026-11-01T18:09:43+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13742",
+            "title": "川口オートレース 2027年カレンダー発売のお知らせ",
+            "url": "https://www.kawaguchiauto.jp/news/2027calendar2/",
+            "categories": [],
+            "publishedAt": "2026-11-01T17:14:42+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "wvwWnSHcFVE",
+            "title": "【SG4日目/ダイジェスト】SG第58回#日本選手権オートレース (浜松)｜1着選手インタビュー映像あり（2026.11.1） #オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=wvwWnSHcFVE",
+            "categories": [],
+            "publishedAt": "2026-11-01T17:05:23+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13738",
+            "title": "【11月8日】ランバイク体験会開催のお知らせ",
+            "url": "https://www.kawaguchiauto.jp/news/20261101/",
+            "categories": [],
+            "publishedAt": "2026-11-01T16:55:56+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "1672",
+            "title": "今月のお客様サービス実施日について",
+            "url": "https://www.kawaguchiauto.jp/news/fanservice/",
+            "categories": [],
+            "publishedAt": "2026-11-01T16:51:36+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611010000652",

@@ -2,6 +2,191 @@
     "date": "2026-11-02",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001747",
+            "title": "【オートレース】青山周平は無傷5連勝で優出　プライドかけ3年ぶり大会Vへ／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611020001747.html",
+            "categories": [],
+            "publishedAt": "2026-11-02T20:53:23+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001733",
+            "title": "【オートレース】状態いい鈴木圭一郎「いつも以上にいつも通り」平常心でV狙う／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611020001733.html",
+            "categories": [],
+            "publishedAt": "2026-11-02T20:34:09+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038914",
+            "title": "【優勝戦予想（日刊スポーツ）】SG第58回日本選手権オートレース",
+            "url": "https://autorace.jp/news/raceinfo/2026/11/02/038914/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T20:32:48+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038931",
+            "title": "【報知提供】青山周平、\"宿敵\"をも退けて、いざ5度目のダービー制覇へ～浜松SG",
+            "url": "https://autorace.jp/news/2026/11/02/038931/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T20:10:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038930",
+            "title": "【スポニチアネックス提供】佐藤励　連覇へ気負いなし「楽しんで面白いレースを見せたい」",
+            "url": "https://autorace.jp/news/2026/11/02/038930/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T20:10:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038929",
+            "title": "【日刊提供】「いつも以上にいつも通り」鈴木圭一郎は今年最初のグレードＶ狙う／浜松",
+            "url": "https://autorace.jp/news/2026/11/02/038929/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T20:00:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038928",
+            "title": "【日刊提供】5連勝で優出の青山周平「部品も含めて見直し」3年ぶりタイトル奪取へ／浜松",
+            "url": "https://autorace.jp/news/2026/11/02/038928/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T20:00:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038927",
+            "title": "【日刊提供】「いい位置に付けられたけど」シリーズ初出場の森下輝はSG優出逃す／浜松",
+            "url": "https://autorace.jp/news/2026/11/02/038927/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T20:00:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038926",
+            "title": "オッズパークpresents SG第58回日本選手権オートレース【優勝戦出場選手 前日コメント】をUPしました",
+            "url": "https://autorace.jp/news/2026/11/02/038926/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T19:30:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "wZq49y-I6ss",
+            "title": "日本一まであと1勝！SG #日本選手権オートレース 準決勝ダイジェスト #オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=wZq49y-I6ss",
+            "categories": [],
+            "publishedAt": "2026-11-02T19:22:34+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13637",
+            "title": "【11月7日～10日】【12月7日～9日】サッポロビールフェアの開催について",
+            "url": "https://www.kawaguchiauto.jp/news/20261102/",
+            "categories": [],
+            "publishedAt": "2026-11-02T18:41:25+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001303",
+            "title": "【オートレース】準決勝戦12Rはレース不成立、鈴木圭一郎と佐藤摩弥が優出／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611020001303.html",
+            "categories": [],
+            "publishedAt": "2026-11-02T17:48:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "nQYsDFt1rjQ",
+            "title": "浜松オートレース中継 2026年11月2日 オッズパークpresents SG第58回日本選手権オートレース　5日目",
+            "url": "https://www.youtube.com/watch?v=nQYsDFt1rjQ",
+            "categories": [],
+            "publishedAt": "2026-11-02T17:07:13+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038925",
+            "title": "【日刊提供】5日目 フォトギャラリー（11月2日）",
+            "url": "https://autorace.jp/news/2026/11/02/038925/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-02T16:59:22+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "KLL2LXXsJ7I",
+            "title": "【SG準決勝戦/ダイジェスト】SG第58回#日本選手権オートレース (浜松)｜優出インタビュー映像あり（2026.11.2） #オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=KLL2LXXsJ7I",
+            "categories": [],
+            "publishedAt": "2026-11-02T16:50:25+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4274",
+            "title": "【本場開催のご案内】11/19～23「ギャンブー杯GⅡウィナーズカップ」レース・イベント情報",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4274",
+            "categories": [],
+            "publishedAt": "2026-11-02T16:48:04+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001099",
+            "title": "【オートレース】森下輝は３着争い制すもSG初優出逃す　あともう１戦に全力／浜松SG",
+            "url": "https://www.nikkansports.com/public_race/news/202611020001099.html",
+            "categories": [],
+            "publishedAt": "2026-11-02T16:32:49+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038916",

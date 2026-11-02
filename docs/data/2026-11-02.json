@@ -2,6 +2,34 @@
     "date": "2026-11-02",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038916",
+            "title": "[YouTubeライブ配信のお知らせ] 【ガチ予想LIVE】みんなオトもっち by AUTORACE.JP投票 SG第58回日本選手権オートレース",
+            "url": "https://autorace.jp/news/2026/11/02/038916/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "浜松",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-02T12:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038917",
+            "title": "【SG第58回日本選手権オートレース 優勝戦展望】11/02 22:00スタート！前夜版みんなオトもっち・徹底討論スペシャル！",
+            "url": "https://autorace.jp/news/2026/11/02/038917/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "伊勢崎",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-02T12:00:00+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "4FK03H3GCeI",

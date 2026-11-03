@@ -166,6 +166,11 @@
         "2024-11-17",
         "2024-07-14"
     ],
-    "checkedAt": "2026-11-03T08:32:12+09:00",
-    "failures": []
+    "checkedAt": "2026-11-03T15:50:26+09:00",
+    "failures": [
+        {
+            "source": "youtube",
+            "message": "GET https://www.youtube.com/feeds/videos.xml?channel_id=UCJAPqcMNYk3HMknRuPMNvKA returned HTTP 404."
+        }
+    ]
 }

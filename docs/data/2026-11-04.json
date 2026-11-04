@@ -2,6 +2,53 @@
     "date": "2026-11-04",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13784",
+            "title": "テレ玉presents 川口ナイトレース 小原 望選手(2026/11/4)",
+            "url": "https://www.kawaguchiauto.jp/interview/20261104/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-11-04T23:27:49+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "uDYHvCYJMdU",
+            "title": "川口オートレース中継 2026年11月4日 テレ玉presents　川口ナイトレース　最終日",
+            "url": "https://www.youtube.com/watch?v=uDYHvCYJMdU",
+            "categories": [],
+            "publishedAt": "2026-11-04T23:03:45+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13763",
+            "title": "【11月7日～10日】「第6回 埼玉高速鉄道 埼スタ線杯」イベントについて",
+            "url": "https://www.kawaguchiauto.jp/news/20261104/",
+            "categories": [],
+            "publishedAt": "2026-11-04T20:27:49+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "4jCaL2R_ASk",
+            "title": "SG第41回スーパースター王座決定戦　トライアル戦出場選手決定！ #オートレース #autorace #motorsport #スーパースター #SG #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=4jCaL2R_ASk",
+            "categories": [],
+            "publishedAt": "2026-11-04T19:00:15+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "r9bmo7hK9f8",
+            "title": "山陽オートレース中継 2026年11月4日 第10回大成ロテック杯争奪戦　1日目",
+            "url": "https://www.youtube.com/watch?v=r9bmo7hK9f8",
+            "categories": [],
+            "publishedAt": "2026-11-04T18:51:45+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038943",

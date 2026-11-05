@@ -2,6 +2,58 @@
     "date": "2026-11-05",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "jHSIHilI_kk",
+            "title": "山陽オートレース中継 2026年11月5日 第10回大成ロテック杯争奪戦　2日目",
+            "url": "https://www.youtube.com/watch?v=jHSIHilI_kk",
+            "categories": [],
+            "publishedAt": "2026-11-05T20:50:58+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "hNodCGzCTjk",
+            "title": "最終コーナー大胆な突っ込みで丹下昂紀が勝利！#オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=hNodCGzCTjk",
+            "categories": [],
+            "publishedAt": "2026-11-05T19:00:32+09:00"
+        },
+        {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7222",
+            "title": "第10回オートレース石狩杯　イベント情報について",
+            "url": "https://www.isesaki-auto.jp/7222/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-05T18:47:41+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4131",
+            "title": "１１/５　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202611054131.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-11-05T16:00:52+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038814",
+            "title": "11/28(土)若井友和選手・黒川京介選手トークショーを開催します！☞ サテライト花園寄居",
+            "url": "https://autorace.jp/news/2026/11/05/038814/",
+            "categories": [
+                "イベント情報",
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-05T15:12:51+09:00"
+        },
+        {
             "source": "sanyo",
             "sourceName": "山陽オート",
             "id": "3778",
@@ -11,6 +63,15 @@
                 "イベント"
             ],
             "publishedAt": "2026-11-05T14:00:04+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "bjGz1qP54hA",
+            "title": "雨の川口で躍動！小原望が約3年9か月ぶりのV!! #オートレース #autorace #川口オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=bjGz1qP54hA",
+            "categories": [],
+            "publishedAt": "2026-11-05T07:00:28+09:00"
         }
     ]
 }

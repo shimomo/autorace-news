@@ -2,6 +2,53 @@
     "date": "2026-11-08",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "1DHZlwvsdkE",
+            "title": "伊勢崎オートレース中継 2026年11月8日 第10回オートレース石狩杯　3日目",
+            "url": "https://www.youtube.com/watch?v=1DHZlwvsdkE",
+            "categories": [],
+            "publishedAt": "2026-11-08T21:07:21+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "TQFxw6kFKJE",
+            "title": "突き抜けた試走！ゴールまで追い込む！ 田中 茂 #オートレース #autorace #川口オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=TQFxw6kFKJE",
+            "categories": [],
+            "publishedAt": "2026-11-08T19:00:28+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4198",
+            "title": "山陽オートファン感謝祭2026　ダイジェスト動画を公開！",
+            "url": "https://sanyoauto.jp/topics/news/202611084198.html",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-08T18:44:44+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080001401",
+            "title": "【オートレース】青木治親はパワー不足に悩むも得意の湿走路なら優出のチャンスも十分／川口",
+            "url": "https://www.nikkansports.com/public_race/news/202611080001401.html",
+            "categories": [],
+            "publishedAt": "2026-11-08T17:59:05+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "PKh6Gf_eOI0",
+            "title": "川口オートレース中継 2026年11月8日 第６回 埼玉高速鉄道 埼スタ線杯　2日目",
+            "url": "https://www.youtube.com/watch?v=PKh6Gf_eOI0",
+            "categories": [],
+            "publishedAt": "2026-11-08T17:15:10+09:00"
+        },
+        {
             "source": "kawaguchi",
             "sourceName": "川口オートレース",
             "id": "13763",
@@ -9,6 +56,15 @@
             "url": "https://www.kawaguchiauto.jp/news/20261104/",
             "categories": [],
             "publishedAt": "2026-11-08T10:05:12+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "8Lqd1X6VWz8",
+            "title": "【SWITCH OFF】三宅真央 × 當銘直美｜意外な接点の親友同士・女子旅に密着！ #オートレース #AUTORACE #三宅真央 #當銘直美 #ガールズケイリン #競輪 #shorts",
+            "url": "https://www.youtube.com/watch?v=8Lqd1X6VWz8",
+            "categories": [],
+            "publishedAt": "2026-11-08T07:00:36+09:00"
         }
     ]
 }

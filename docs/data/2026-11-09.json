@@ -2,6 +2,26 @@
     "date": "2026-11-09",
     "articles": [
         {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "5125",
+            "title": "浜松オーバーミッドナイトオートレースin飯塚「出走表」／視聴者プレゼントについて",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/5125",
+            "categories": [],
+            "publishedAt": "2026-11-09T12:01:09+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4195",
+            "title": "日刊スポーツGⅡ第37回若獅子杯争奪戦【イベント情報】",
+            "url": "https://sanyoauto.jp/topics/event/202611094195.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-09T11:45:00+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038838",

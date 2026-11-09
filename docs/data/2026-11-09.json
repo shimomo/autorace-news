@@ -2,6 +2,75 @@
     "date": "2026-11-09",
     "articles": [
         {
+            "source": "isesaki",
+            "sourceName": "伊勢崎オートレース",
+            "id": "7247",
+            "title": "第10回オートレース石狩杯　優勝者は荒尾聡選手",
+            "url": "https://www.isesaki-auto.jp/7247/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-09T21:45:45+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "SupV0ZF5Vp8",
+            "title": "伊勢崎オートレース中継 2026年11月9日 第10回オートレース石狩杯　最終日",
+            "url": "https://www.youtube.com/watch?v=SupV0ZF5Vp8",
+            "categories": [],
+            "publishedAt": "2026-11-09T21:26:26+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038956",
+            "title": "2026年11月9日 浜松ミッドナイトin飯塚 整備情報",
+            "url": "https://autorace.jp/news/2026/11/09/038956/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-11-09T19:43:21+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "7RngrBLoalI",
+            "title": "【開幕直前】11.11開幕!!GⅡ第37回若獅子杯争奪戦 若手の登竜門を突破するのは誰だ！？ #オートレース #autorace #山陽オート #motorsport #shorts",
+            "url": "https://www.youtube.com/watch?v=7RngrBLoalI",
+            "categories": [],
+            "publishedAt": "2026-11-09T19:00:36+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001411",
+            "title": "【競輪】豪華ゲスト出演の前橋ミッドナイト「競輪居酒屋」イベントチケット販売中",
+            "url": "https://www.nikkansports.com/public_race/info/news/202611090001411.html",
+            "categories": [],
+            "publishedAt": "2026-11-09T18:57:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001343",
+            "title": "【オートレース】佐藤裕二が本領発揮のＳ速攻「朝練習からスタートの切れは良かった」／川口",
+            "url": "https://www.nikkansports.com/public_race/news/202611090001343.html",
+            "categories": [],
+            "publishedAt": "2026-11-09T18:52:29+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "mbQsLv5Apm0",
+            "title": "川口オートレース中継 2026年11月9日 第６回 埼玉高速鉄道 埼スタ線杯　3日目",
+            "url": "https://www.youtube.com/watch?v=mbQsLv5Apm0",
+            "categories": [],
+            "publishedAt": "2026-11-09T17:11:34+09:00"
+        },
+        {
             "source": "hamamatsu",
             "sourceName": "浜松オート",
             "id": "5125",
@@ -24,6 +93,19 @@
         {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
+            "id": "038954",
+            "title": "日刊スポーツGⅡ第37回若獅子杯争奪戦（山陽）出場選手の変更について",
+            "url": "https://autorace.jp/news/2026/11/09/038954/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-09T11:41:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
             "id": "038838",
             "title": "AUTORACE.JP投票 「重勝式グルメキャンペーン（11月9日～15日）」",
             "url": "https://autorace.jp/news/2026/11/09/038838/",
@@ -34,6 +116,15 @@
                 "pickup"
             ],
             "publishedAt": "2026-11-09T10:00:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "EzD8Qzrs5tY",
+            "title": "人気両名従えて優勝戦へ弾みをつける勝利! 鈴木 聡太 #オートレース #autorace #伊勢崎オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=EzD8Qzrs5tY",
+            "categories": [],
+            "publishedAt": "2026-11-09T07:00:35+09:00"
         },
         {
             "source": "autorace.jp",

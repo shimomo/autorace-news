@@ -2,6 +2,123 @@
     "date": "2026-11-10",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "oq1Ucb-HTWU",
+            "title": "伊勢崎オートレース中継 2026年11月10日 オッズPARKでチケチャレ杯伊勢崎オートアフター５ナイター　1日目",
+            "url": "https://www.youtube.com/watch?v=oq1Ucb-HTWU",
+            "categories": [],
+            "publishedAt": "2026-11-10T21:18:35+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038966",
+            "title": "【日刊提供】「え？私でいいの？」初日12Rにグレード初挑戦の染谷和香が出走／山陽",
+            "url": "https://autorace.jp/news/2026/11/10/038966/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-10T20:30:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038965",
+            "title": "【日刊提供】小川可蓮が2度目のグレード戦「早めにペース上げたい」無欲で逃げる／山陽",
+            "url": "https://autorace.jp/news/2026/11/10/038965/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-10T20:30:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038964",
+            "title": "【日刊提供】昨年優勝の石本圭耶「今年は今年なので」白星発進狙う／山陽",
+            "url": "https://autorace.jp/news/2026/11/10/038964/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-10T20:30:01+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4239",
+            "title": "カレンダー＆オリジナルタオル発売！",
+            "url": "https://sanyoauto.jp/topics/news/202611104239.html",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-10T20:24:42+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038963",
+            "title": "2026年11月10日 浜松ミッドナイトin飯塚 整備情報",
+            "url": "https://autorace.jp/news/2026/11/10/038963/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-11-10T19:35:45+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001208",
+            "title": "【オートレース】石本圭耶は故障完治で連覇の期待かかるも平常心「今年は今年なので」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611100001208.html",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:26:47+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001240",
+            "title": "【オートレース】「私でいいの？」初グレード戦の染谷和香は鈴木圭一郎と同じ12R登場／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611100001240.html",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:19:18+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001213",
+            "title": "【オートレース】小川可蓮２度目グレード戦で成長ぶり見せる「掲示板を目標にします」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611100001213.html",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:16:56+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "FBrSgs0sWYY",
+            "title": "【SWITCH OFF】三宅真央 × 當銘直美 (Vol.2)｜温泉やグルメを満喫した後は、遂に戦場へ！？",
+            "url": "https://www.youtube.com/watch?v=FBrSgs0sWYY",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:00:24+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "tqQPEdzzvEk",
+            "title": "加賀谷建明が抜群の動きでぶっちぎり完全優勝！通算30V到達#オートレース #autorace #川口オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=tqQPEdzzvEk",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:00:07+09:00"
+        },
+        {
             "source": "kawaguchi",
             "sourceName": "川口オートレース",
             "id": "13830",

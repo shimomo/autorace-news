@@ -2,6 +2,26 @@
     "date": "2026-11-10",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13830",
+            "title": "第6回 埼玉高速鉄道 埼スタ線杯 加賀谷 建明選手(2026/11/10)",
+            "url": "https://www.kawaguchiauto.jp/interview/20261110/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-11-10T18:36:07+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "oulH1k20G58",
+            "title": "川口オートレース中継 2026年11月10日 第６回 埼玉高速鉄道 埼スタ線杯　最終日",
+            "url": "https://www.youtube.com/watch?v=oulH1k20G58",
+            "categories": [],
+            "publishedAt": "2026-11-10T17:19:01+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038959",
@@ -12,6 +32,15 @@
                 "ニュース"
             ],
             "publishedAt": "2026-11-10T09:59:51+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "Cj1htj8pTq4",
+            "title": "伊勢崎は第二の地元！好調荒尾聡が激戦制し優勝を飾る#オートレース #autorace #伊勢崎オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=Cj1htj8pTq4",
+            "categories": [],
+            "publishedAt": "2026-11-10T07:00:28+09:00"
         },
         {
             "source": "youtube",

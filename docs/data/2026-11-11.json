@@ -2,6 +2,155 @@
     "date": "2026-11-11",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "4Vad5nCdtIU",
+            "title": "伊勢崎オートレース中継 2026年11月11日 オッズPARKでチケチャレ杯伊勢崎オートアフター５ナイター　2日目",
+            "url": "https://www.youtube.com/watch?v=4Vad5nCdtIU",
+            "categories": [],
+            "publishedAt": "2026-11-11T22:17:09+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038971",
+            "title": "2026年11月11日 浜松ミッドナイトin飯塚 整備情報",
+            "url": "https://autorace.jp/news/2026/11/11/038971/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-11-11T19:48:09+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "R6cidza0yuE",
+            "title": "吉林直都が外から強襲、内から速攻展開と快勝 #オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=R6cidza0yuE",
+            "categories": [],
+            "publishedAt": "2026-11-11T19:00:24+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038952",
+            "title": "オートレース公式ファンクラブに「三宅真央選手×當銘直美選手 直筆サイン色紙」が登場！",
+            "url": "https://autorace.jp/news/fanclub/2026/11/11/038952/",
+            "categories": [
+                "ニュース",
+                "ファンクラブ"
+            ],
+            "publishedAt": "2026-11-11T19:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038970",
+            "title": "【日刊提供】美容師から家族の影響でレーサー転身の石田啓貴が白星発進／山陽",
+            "url": "https://autorace.jp/news/2026/11/11/038970/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-11T17:40:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038969",
+            "title": "【日刊提供】「エンジンのレベルアップを」近況成長の宮司佳奈が逃げ切り勝ち／山陽",
+            "url": "https://autorace.jp/news/2026/11/11/038969/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-11T17:40:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038968",
+            "title": "【日刊提供】オープニング勝利の木山優輝「動きは悪くないので次も」／山陽",
+            "url": "https://autorace.jp/news/2026/11/11/038968/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-11T17:40:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038967",
+            "title": "GII第37回若獅子杯争奪戦 得点表（1日目）",
+            "url": "https://autorace.jp/news/2026/11/11/038967/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-11T17:28:55+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110000927",
+            "title": "【オートレース】宮司佳奈は初日白星発進も満足せず「エンジンのレベルアップを」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611110000927.html",
+            "categories": [],
+            "publishedAt": "2026-11-11T17:28:27+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "B7G75vV6RSs",
+            "title": "山陽オートレース中継 2026年11月11日 日刊スポーツGⅡ第３７回若獅子杯争奪戦　1日目",
+            "url": "https://www.youtube.com/watch?v=B7G75vV6RSs",
+            "categories": [],
+            "publishedAt": "2026-11-11T17:16:38+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "jstYk3DzNFU",
+            "title": "【GⅡ初日/ダイジェスト】GⅡ第37回#若獅子杯争奪戦 (山陽)（2026.11.11）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=jstYk3DzNFU",
+            "categories": [],
+            "publishedAt": "2026-11-11T17:15:09+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110000924",
+            "title": "【オートレース】木山優輝が開幕レース制する「動きは悪くないので、次も頑張ります」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611110000924.html",
+            "categories": [],
+            "publishedAt": "2026-11-11T16:58:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110000928",
+            "title": "【オートレース】地元の石田啓貴、スタートから押し切り１着「直線の行き足出てくれた」山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611110000928.html",
+            "categories": [],
+            "publishedAt": "2026-11-11T16:58:13+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4246",
+            "title": "１１月１１日　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202611114246.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-11-11T16:00:00+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "036814",

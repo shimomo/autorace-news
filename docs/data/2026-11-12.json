@@ -2,6 +2,18 @@
     "date": "2026-11-12",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "036814",
+            "title": "レース情報・PDF新聞も掲載！「サンスポ ZBAT！グレードレース特集」ページ",
+            "url": "https://autorace.jp/news/2026/11/12/036814/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-12T11:20:00+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "9Q4wVBpnVdQ",

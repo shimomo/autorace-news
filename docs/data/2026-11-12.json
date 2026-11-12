@@ -2,6 +2,15 @@
     "date": "2026-11-12",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "zlfLzo6QPQ4",
+            "title": "伊勢崎オートレース中継 2026年11月12日 オッズPARKでチケチャレ杯伊勢崎オートアフター５ナイター　最終日",
+            "url": "https://www.youtube.com/watch?v=zlfLzo6QPQ4",
+            "categories": [],
+            "publishedAt": "2026-11-12T22:57:05+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038982",

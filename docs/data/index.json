@@ -175,11 +175,11 @@
         "2024-11-17",
         "2024-07-14"
     ],
-    "checkedAt": "2026-11-12T20:14:32+09:00",
+    "checkedAt": "2026-11-13T03:58:39+09:00",
     "failures": [
         {
             "source": "isesaki",
-            "message": "GET https://www.isesaki-auto.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-11-10T11%3A14%3A31%2B00%3A00 returned HTTP 403."
+            "message": "GET https://www.isesaki-auto.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-11-10T18%3A58%3A38%2B00%3A00 returned HTTP 403."
         }
     ]
 }

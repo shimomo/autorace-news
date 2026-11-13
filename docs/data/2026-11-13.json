@@ -2,6 +2,133 @@
     "date": "2026-11-13",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "MG_DuNlRF3o",
+            "title": "単独０ハン道智亮介が後続の猛追から先頭を守り抜き勝利！ #オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=MG_DuNlRF3o",
+            "categories": [],
+            "publishedAt": "2026-11-13T19:00:07+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038985",
+            "title": "【日刊提供】「特に調整してないけどいい状態」中山光が最後方から7人抜き去り圧勝／山陽",
+            "url": "https://autorace.jp/news/2026/11/13/038985/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-13T19:00:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038984",
+            "title": "【日刊提供】最終予選6着の浅倉樹良は準決勝巻き返しへ「バルブ交換してみます」／山陽",
+            "url": "https://autorace.jp/news/2026/11/13/038984/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-13T19:00:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038983",
+            "title": "【日刊提供】地元新人女子の松尾亜生理がグレード戦初勝利「跳ね対策した結果」／山陽",
+            "url": "https://autorace.jp/news/2026/11/13/038983/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-13T19:00:01+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001459",
+            "title": "【オートレース】若手スター候補の浅倉樹良３連勝逃す「インにもぐり込もうとしたら」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611130001459.html",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:49:47+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001475",
+            "title": "【オートレース】中山光が快速を発揮し圧勝「いい状態です」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611130001475.html",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:47:15+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001448",
+            "title": "【オートレース】松尾亜生理がグレード戦初白星「跳ね対策をした効果で結果が出た」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611130001448.html",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:24:29+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038967",
+            "title": "GII第37回若獅子杯争奪戦 得点表（3日目）",
+            "url": "https://autorace.jp/news/2026/11/13/038967/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-13T18:00:55+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038962",
+            "title": "オートレースの競走車に使用するエンジンオイル取扱い変更のお知らせ",
+            "url": "https://autorace.jp/news/raceinfo/2026/11/13/038962/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-13T17:45:00+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4195",
+            "title": "日刊スポーツGⅡ第37回若獅子杯争奪戦【イベント情報】",
+            "url": "https://sanyoauto.jp/topics/event/202611134195.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-13T17:29:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "FJ2t6BhSUqM",
+            "title": "山陽オートレース中継 2026年11月13日 日刊スポーツGⅡ第３７回若獅子杯争奪戦　3日目",
+            "url": "https://www.youtube.com/watch?v=FJ2t6BhSUqM",
+            "categories": [],
+            "publishedAt": "2026-11-13T17:18:28+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "kPuHncfGAjE",
+            "title": "【GⅡ3日目/ダイジェスト】GⅡ第37回#若獅子杯争奪戦 (山陽)（2026.11.13）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=kPuHncfGAjE",
+            "categories": [],
+            "publishedAt": "2026-11-13T17:05:12+09:00"
+        },
+        {
             "source": "sanyo",
             "sourceName": "山陽オート",
             "id": "4294",

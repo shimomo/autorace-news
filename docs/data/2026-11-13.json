@@ -1,0 +1,69 @@
+{
+    "date": "2026-11-13",
+    "articles": [
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4294",
+            "title": "１１月１３日　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202611134294.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-11-13T16:00:33+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038978",
+            "title": "[YouTubeライブ配信のお知らせ] 【ガチ予想LIVE】みんなオトもっち by AUTORACE.JP投票 GII 第37回若獅子杯争奪戦",
+            "url": "https://autorace.jp/news/2026/11/13/038978/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "山陽",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-13T12:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "036814",
+            "title": "レース情報・PDF新聞も掲載！「サンスポ ZBAT！グレードレース特集」ページ",
+            "url": "https://autorace.jp/news/2026/11/13/036814/",
+            "categories": [
+                "ニュース",
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-13T11:20:00+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "xtaK5HnmB-0",
+            "title": "飯塚オートレース中継 2026年11月12日 オートレースもＷＩＮＴＩＣＫＥＴ杯浜松オーバーミッドナイトオートレース　最終日(1)",
+            "url": "https://www.youtube.com/watch?v=xtaK5HnmB-0",
+            "categories": [],
+            "publishedAt": "2026-11-13T09:22:26+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "WzLUNRzLboQ",
+            "title": "勝機は序盤の速攻！佐久間健光が冷えた走路でスピード全開！約2年ぶりの優勝#オートレース #autorace #伊勢崎オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=WzLUNRzLboQ",
+            "categories": [],
+            "publishedAt": "2026-11-13T07:00:06+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "ipwzLyiqNbI",
+            "title": "飯塚オートレース中継 2026年11月12日 オートレースもＷＩＮＴＩＣＫＥＴ杯浜松オーバーミッドナイトオートレース　最終日(2)",
+            "url": "https://www.youtube.com/watch?v=ipwzLyiqNbI",
+            "categories": [],
+            "publishedAt": "2026-11-13T05:10:54+09:00"
+        }
+    ]
+}

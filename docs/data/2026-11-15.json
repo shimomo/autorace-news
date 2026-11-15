@@ -2,6 +2,97 @@
     "date": "2026-11-15",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611150001657",
+            "title": "【オートレース】浅倉樹良が37期一番乗りでグレード戦初制覇　８周回逃げ切る／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611150001657.html",
+            "categories": [],
+            "publishedAt": "2026-11-15T19:29:43+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038992",
+            "title": "【日刊提供】1番人気鈴木圭一郎はまさかの4着／山陽",
+            "url": "https://autorace.jp/news/2026/11/15/038992/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-15T19:10:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038991",
+            "title": "【日刊提供】佐藤励は2着、3度目のVならず／山陽",
+            "url": "https://autorace.jp/news/2026/11/15/038991/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-15T19:10:02+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611150001389",
+            "title": "【オートレース】佐藤励は懸命の巻き返し及ばず２着「あれ以上は無理できず」／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611150001389.html",
+            "categories": [],
+            "publishedAt": "2026-11-15T18:52:17+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611150001401",
+            "title": "【オートレース】鈴木圭一郎はグレード戦今年初Vならず４着　地元G2に照準／山陽G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611150001401.html",
+            "categories": [],
+            "publishedAt": "2026-11-15T18:51:14+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "X-rs2g8G9t4",
+            "title": "【速報】日刊スポーツGⅡ第37回若獅子杯争奪戦　優勝は浅倉樹良！#オートレース #autorace #山陽オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=X-rs2g8G9t4",
+            "categories": [],
+            "publishedAt": "2026-11-15T17:53:16+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "Fgd0BLW27bE",
+            "title": "【優出選手・優勝者インタビュー映像あり】【GⅡ優勝戦/ダイジェスト】GⅡ第37回#若獅子杯争奪戦 (山陽)（2026.11.15）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=Fgd0BLW27bE",
+            "categories": [],
+            "publishedAt": "2026-11-15T17:36:33+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "HBERwc8bf_g",
+            "title": "山陽オートレース中継 2026年11月15日 日刊スポーツGⅡ第３７回若獅子杯争奪戦　最終日",
+            "url": "https://www.youtube.com/watch?v=HBERwc8bf_g",
+            "categories": [],
+            "publishedAt": "2026-11-15T17:28:52+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4341",
+            "title": "１１月１５日　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202611154341.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-11-15T16:00:23+09:00"
+        },
+        {
             "source": "hamamatsu",
             "sourceName": "浜松オート",
             "id": "5162",

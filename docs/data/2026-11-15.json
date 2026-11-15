@@ -2,6 +2,53 @@
     "date": "2026-11-15",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13855",
+            "title": "テレ玉presents 川口ナイトレース 丹村 飛竜選手(2026/11/15)",
+            "url": "https://www.kawaguchiauto.jp/interview/20261115/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-11-15T23:21:34+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "opRDuoEl7pc",
+            "title": "【ガチ予想LIVE】みんなオトもっち by AUTORACE.JP投票 GII第37回若獅子杯争奪戦",
+            "url": "https://www.youtube.com/watch?v=opRDuoEl7pc",
+            "categories": [],
+            "publishedAt": "2026-11-15T22:59:57+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038990",
+            "title": "日刊スポーツGII第37回若獅子杯争奪戦の優勝戦速報をUPしました",
+            "url": "https://autorace.jp/news/2026/11/15/038990/",
+            "categories": [
+                "ニュース",
+                "ビックレース回顧",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-15T20:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038993",
+            "title": "【日刊提供】37期の浅倉樹良がグレードレース初優勝／山陽",
+            "url": "https://autorace.jp/news/2026/11/15/038993/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "山陽"
+            ],
+            "publishedAt": "2026-11-15T19:50:01+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611150001657",
@@ -52,7 +99,16 @@
             "title": "【オートレース】鈴木圭一郎はグレード戦今年初Vならず４着　地元G2に照準／山陽G2",
             "url": "https://www.nikkansports.com/public_race/news/202611150001401.html",
             "categories": [],
-            "publishedAt": "2026-11-15T18:51:14+09:00"
+            "publishedAt": "2026-11-15T18:52:00+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13838",
+            "title": "【11月22日～25日】「テレ玉・WINTICKETpresents 川口ナイトレース」 裏実況LIVE配信のお知らせ！",
+            "url": "https://www.kawaguchiauto.jp/news/20261122_nightrace/",
+            "categories": [],
+            "publishedAt": "2026-11-15T18:22:59+09:00"
         },
         {
             "source": "youtube",

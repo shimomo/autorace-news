@@ -2,6 +2,33 @@
     "date": "2026-11-16",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038994",
+            "title": "企画レース「節連続リベンジマッチ」を実施します！(11/30～川口ナイトレース)",
+            "url": "https://autorace.jp/news/2026/11/16/038994/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "川口"
+            ],
+            "publishedAt": "2026-11-16T10:50:51+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038839",
+            "title": "AUTORACE.JP投票 「重勝式グルメキャンペーン（11月16日～22日）」",
+            "url": "https://autorace.jp/news/2026/11/16/038839/",
+            "categories": [
+                "キャンペーン情報",
+                "ニュース",
+                "ネット投票お知らせ",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-16T10:00:00+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "nuObTg9pxbU",

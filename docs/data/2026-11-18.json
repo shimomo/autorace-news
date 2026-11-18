@@ -2,6 +2,110 @@
     "date": "2026-11-18",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "1PiJLUYiluA",
+            "title": "伊勢崎オートレース中継 2026年11月18日 オッズPARKでチケチャレ杯伊勢崎オートアフター５ナイター　最終日",
+            "url": "https://www.youtube.com/watch?v=1PiJLUYiluA",
+            "categories": [],
+            "publishedAt": "2026-11-18T21:18:45+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039002",
+            "title": "【日刊提供】37期生の村田光希はGII連続優出へ意欲的に練習と調整を進める／浜松",
+            "url": "https://autorace.jp/news/2026/11/18/039002/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-18T19:50:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039001",
+            "title": "【日刊提供】3年9カ月ぶりVの小原望は黒川京介と対戦に最善を尽くす／浜松",
+            "url": "https://autorace.jp/news/2026/11/18/039001/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-18T19:50:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039000",
+            "title": "【日刊提供】黒川京介がシリーズ3度目の制覇へ始動する／浜松",
+            "url": "https://autorace.jp/news/2026/11/18/039000/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-18T19:50:01+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611180001717",
+            "title": "【オートレース】選手会埼玉支部長の小原望「忙しくて勝てないと言われるの嫌」／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611180001717.html",
+            "categories": [],
+            "publishedAt": "2026-11-18T19:24:30+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611180001707",
+            "title": "【オートレース】村田光希がG2連続優出に挑む「エンジンの調整と足周りの対策を」／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611180001707.html",
+            "categories": [],
+            "publishedAt": "2026-11-18T19:20:58+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "Rt9HQCzZkMY",
+            "title": "五所淳がスタートの遅れを巻き返す激走！約7年7か月ぶり10度目の優勝！ #オートレース #autorace #飯塚オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=Rt9HQCzZkMY",
+            "categories": [],
+            "publishedAt": "2026-11-18T19:00:23+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611180001693",
+            "title": "【オートレース】「まずは優出したい」黒川京介が得意走路で好発進を決める／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611180001693.html",
+            "categories": [],
+            "publishedAt": "2026-11-18T18:42:54+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "t6FOkPjF3EQ",
+            "title": "飯塚オートレース中継 2026年11月18日 オッズパーク杯　最終日",
+            "url": "https://www.youtube.com/watch?v=t6FOkPjF3EQ",
+            "categories": [],
+            "publishedAt": "2026-11-18T17:08:45+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4357",
+            "title": "山陽MNオートレース　777Real×当たるんですコラボCUP",
+            "url": "https://sanyoauto.jp/topics/race/202611184357.html",
+            "categories": [
+                "レース"
+            ],
+            "publishedAt": "2026-11-18T14:19:57+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038998",

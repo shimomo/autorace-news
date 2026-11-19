@@ -2,6 +2,142 @@
     "date": "2026-11-19",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "7ClXRNfaejg",
+            "title": "金子大輔が貫禄の走りで初日快勝！地元グレード好発進!! #オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=7ClXRNfaejg",
+            "categories": [],
+            "publishedAt": "2026-11-19T19:00:20+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039006",
+            "title": "【日刊提供】得意のホームバンクで筒井健太が勝利／浜松",
+            "url": "https://autorace.jp/news/2026/11/19/039006/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-19T18:50:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039005",
+            "title": "【日刊提供】片野利沙が初戦から見せ場十分／浜松",
+            "url": "https://autorace.jp/news/2026/11/19/039005/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-19T18:50:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039004",
+            "title": "【日刊提供】「うなぎ食べてきたよ」高橋貢が記録更新の1747勝目／浜松",
+            "url": "https://autorace.jp/news/2026/11/19/039004/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-19T18:50:01+09:00"
+        },
+        {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13861",
+            "title": "川口ナイトレース特設サイトのご案内",
+            "url": "https://www.kawaguchiauto.jp/news/20261119/",
+            "categories": [],
+            "publishedAt": "2026-11-19T18:44:34+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039003",
+            "title": "GII ウィナーズカップ 得点表（1日目）",
+            "url": "https://autorace.jp/news/2026/11/19/039003/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-19T18:09:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001590",
+            "title": "【オートレース】スーパーレジェンド高橋貢が貫禄の白星発進　うなぎ食べ充電／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611190001590.html",
+            "categories": [],
+            "publishedAt": "2026-11-19T17:49:16+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "Mi-BtK0zZI4",
+            "title": "浜松オートレース中継 2026年11月19日 ギャンブー杯ＧⅡウィナーズカップ　1日目",
+            "url": "https://www.youtube.com/watch?v=Mi-BtK0zZI4",
+            "categories": [],
+            "publishedAt": "2026-11-19T16:38:20+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "nuvlyJY1oTM",
+            "title": "【GⅡ初日/ダイジェスト】GⅡ#ウィナーズカップ (浜松)（2026.11.19）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=nuvlyJY1oTM",
+            "categories": [],
+            "publishedAt": "2026-11-19T16:35:45+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001236",
+            "title": "【オートレース】片野利沙が初日から見せ場作り２着　グレード戦初優出目指す／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611190001236.html",
+            "categories": [],
+            "publishedAt": "2026-11-19T15:48:48+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001200",
+            "title": "【オートレース】筒井健太は地元で白星発進　愛犬の写真貼った競走車で連勝だ／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611190001200.html",
+            "categories": [],
+            "publishedAt": "2026-11-19T15:37:50+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4367",
+            "title": "１１月１９日　ミッドナイト出場選手コメント🎤",
+            "url": "https://sanyoauto.jp/topics/midnight-comment/202611194367.html",
+            "categories": [
+                "ミッドナイトオートレース選手コメント"
+            ],
+            "publishedAt": "2026-11-19T13:21:42+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038997",
+            "title": "カルチャー発信地、渋谷・原宿の56カ所に240枚のポスターが出現！渋谷・原宿エリアをオートレースがジャック！～オートレースオリジナルマフラーが当たる公式Instagramキャンペーンも同時開催～",
+            "url": "https://autorace.jp/news/2026/11/19/038997/",
+            "categories": [
+                "イベント情報",
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-19T13:00:00+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038999",

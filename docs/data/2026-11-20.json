@@ -2,6 +2,169 @@
     "date": "2026-11-20",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "dK_S9yfGD04",
+            "title": "地元でスピード全開！森下輝!! 初グレードへ向け勢い加速！#オートレース #autorace #浜松オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=dK_S9yfGD04",
+            "categories": [],
+            "publishedAt": "2026-11-20T19:00:32+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039011",
+            "title": "【日刊提供】「最近の中では悪くない」7Rマスターズ予選制した山田達也が上昇ムード／浜松",
+            "url": "https://autorace.jp/news/2026/11/20/039011/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-20T18:20:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039010",
+            "title": "【日刊提供】篠原睦が立て直して完勝「微調整とタイヤ選びで」2連勝狙う／浜松",
+            "url": "https://autorace.jp/news/2026/11/20/039010/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-20T18:20:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039009",
+            "title": "【日刊提供】イケメン伊藤正真が後方から挽回して勝利「この動きなら」エンジン手応え／浜松",
+            "url": "https://autorace.jp/news/2026/11/20/039009/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-20T18:20:01+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "038995",
+            "title": "[YouTubeライブ配信のお知らせ] 【ガチ予想LIVE】みんなオトもっち by AUTORACE.JP投票 GII ウィナーズカップ",
+            "url": "https://autorace.jp/news/2026/11/20/038995/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "浜松",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-20T18:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039003",
+            "title": "GII ウィナーズカップ 得点表（2日目）",
+            "url": "https://autorace.jp/news/2026/11/20/039003/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-20T17:45:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200001448",
+            "title": "【オートレース】山田達也がレース巧者ぶり発揮「日本選手権のときより状態はいい」／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611200001448.html",
+            "categories": [],
+            "publishedAt": "2026-11-20T17:30:54+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200001428",
+            "title": "【オートレース】イケメンレーサー伊藤正真はエンジン状態の良さに太鼓判「この動きなら楽しみ」／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611200001428.html",
+            "categories": [],
+            "publishedAt": "2026-11-20T17:30:53+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4274",
+            "title": "【本場開催のご案内】11/19～23「ギャンブー杯GⅡウィナーズカップ」レース・イベント情報 【11/20更新】 11/21カレンダーサイン会参加選手決定！",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4274",
+            "categories": [],
+            "publishedAt": "2026-11-20T17:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200001413",
+            "title": "【オートレース】篠原睦のマシン状態は良好「エンジン自体は悪くないですね」／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611200001413.html",
+            "categories": [],
+            "publishedAt": "2026-11-20T17:21:14+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "mZPxxLbY9X4",
+            "title": "【GⅡ2日目/ダイジェスト】GⅡ#ウィナーズカップ (浜松)（2026.11.20）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=mZPxxLbY9X4",
+            "categories": [],
+            "publishedAt": "2026-11-20T17:05:17+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039008",
+            "title": "12/6（日）三宅選手・小川選手も参戦！レノファ山口FCのホームゲームで山陽オート冠マッチ＆イベント開催！",
+            "url": "https://autorace.jp/news/2026/11/20/039008/",
+            "categories": [
+                "イベント情報",
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-20T17:00:00+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4367",
+            "title": "１１月２０日　ミッドナイト出場選手コメント🎤",
+            "url": "https://sanyoauto.jp/topics/midnight-comment/202611204367.html",
+            "categories": [
+                "ミッドナイトオートレース選手コメント"
+            ],
+            "publishedAt": "2026-11-20T16:50:42+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "5QWWi627ZIg",
+            "title": "浜松オートレース中継 2026年11月20日 ギャンブー杯ＧⅡウィナーズカップ　2日目",
+            "url": "https://www.youtube.com/watch?v=5QWWi627ZIg",
+            "categories": [],
+            "publishedAt": "2026-11-20T16:32:58+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039007",
+            "title": "青山周平選手（伊勢崎・３１期）が市原市に豪雨災害に対する災害支援寄附を行いました。",
+            "url": "https://autorace.jp/news/2026/11/20/039007/",
+            "categories": [
+                "オートレース業界における地域支援の取り組み",
+                "ニュース",
+                "災害支援活動"
+            ],
+            "publishedAt": "2026-11-20T15:40:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611190001043",

@@ -59,17 +59,6 @@
             "publishedAt": "2026-11-19T18:44:34+09:00"
         },
         {
-            "source": "autorace.jp",
-            "sourceName": "AUTORACE.JP",
-            "id": "039003",
-            "title": "GII ウィナーズカップ 得点表（1日目）",
-            "url": "https://autorace.jp/news/2026/11/19/039003/",
-            "categories": [
-                "ニュース"
-            ],
-            "publishedAt": "2026-11-19T18:09:38+09:00"
-        },
-        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611190001590",
@@ -113,17 +102,6 @@
             "url": "https://www.nikkansports.com/public_race/news/202611190001200.html",
             "categories": [],
             "publishedAt": "2026-11-19T15:37:50+09:00"
-        },
-        {
-            "source": "sanyo",
-            "sourceName": "山陽オート",
-            "id": "4367",
-            "title": "１１月１９日　ミッドナイト出場選手コメント🎤",
-            "url": "https://sanyoauto.jp/topics/midnight-comment/202611194367.html",
-            "categories": [
-                "ミッドナイトオートレース選手コメント"
-            ],
-            "publishedAt": "2026-11-19T13:21:42+09:00"
         },
         {
             "source": "autorace.jp",

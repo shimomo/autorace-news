@@ -2,6 +2,132 @@
     "date": "2026-11-21",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039014",
+            "title": "【日刊提供】地元33期生の花田一輝が試走3秒31で久しぶりの勝利「エンジン良さそう」／浜松",
+            "url": "https://autorace.jp/news/2026/11/21/039014/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-21T18:30:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039013",
+            "title": "【日刊提供】「準決勝突破したい」勝負駆け成功の吉林直都がグレード優勝戦見据える／浜松",
+            "url": "https://autorace.jp/news/2026/11/21/039013/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-21T18:30:02+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039012",
+            "title": "【日刊提供】「クランク新品にしてからずっといい」米里崇徳が準決勝進出／浜松",
+            "url": "https://autorace.jp/news/2026/11/21/039012/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "浜松"
+            ],
+            "publishedAt": "2026-11-21T18:30:01+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4401",
+            "title": "【12/12(土)必着】九州スポーツ杯GⅠ第61回スピード王決定戦　横断幕の掲出について",
+            "url": "https://sanyoauto.jp/topics/banner-guide/202611214401.html",
+            "categories": [
+                "横断幕の掲出"
+            ],
+            "publishedAt": "2026-11-21T18:07:17+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039003",
+            "title": "GII ウィナーズカップ 得点表（3日目）",
+            "url": "https://autorace.jp/news/2026/11/21/039003/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-21T17:30:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611210001376",
+            "title": "【オートレース】米里崇徳が快勝で今節２勝目　グレード戦初優出へ果敢に挑戦／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611210001376.html",
+            "categories": [],
+            "publishedAt": "2026-11-21T17:29:11+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611210001359",
+            "title": "【オートレース】吉林直都が勝負駆け成功「地元なのでまずは準決を突破したい」／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611210001359.html",
+            "categories": [],
+            "publishedAt": "2026-11-21T17:21:08+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611210001335",
+            "title": "【オートレース】花田一輝が２カ月ぶり１着　主要パーツリニューアルで上向く／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611210001335.html",
+            "categories": [],
+            "publishedAt": "2026-11-21T17:11:37+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "aFo87DivLeg",
+            "title": "浜松オートレース中継 2026年11月21日 ギャンブー杯ＧⅡウィナーズカップ　3日目",
+            "url": "https://www.youtube.com/watch?v=aFo87DivLeg",
+            "categories": [],
+            "publishedAt": "2026-11-21T16:34:28+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "sLTrvqP0EtE",
+            "title": "【GⅡ準々決勝戦/ダイジェスト】GⅡ#ウィナーズカップ (浜松)（2026.11.21）#オートレース #autorace",
+            "url": "https://www.youtube.com/watch?v=sLTrvqP0EtE",
+            "categories": [],
+            "publishedAt": "2026-11-21T16:25:19+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611210001120",
+            "title": "【オートレース】宮司佳奈「ありがとうございました！」地元グレード戦初勝利／浜松G2",
+            "url": "https://www.nikkansports.com/public_race/news/202611210001120.html",
+            "categories": [],
+            "publishedAt": "2026-11-21T16:05:25+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4397",
+            "title": "１１月２１日　ミッドナイト出場選手コメント🎤",
+            "url": "https://sanyoauto.jp/topics/midnight-comment/202611214397.html",
+            "categories": [
+                "ミッドナイトオートレース選手コメント"
+            ],
+            "publishedAt": "2026-11-21T15:53:40+09:00"
+        },
+        {
             "source": "kawaguchi",
             "sourceName": "川口オートレース",
             "id": "13878",

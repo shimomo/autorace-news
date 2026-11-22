@@ -2,13 +2,22 @@
     "date": "2026-11-22",
     "articles": [
         {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "4926",
+            "title": "【本場開催】1/27～1/31「WINTICKET杯 GⅠ第68回スピード王決定戦」ポスタービジュアル決定",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/4926",
+            "categories": [],
+            "publishedAt": "2026-11-22T11:36:15+09:00"
+        },
+        {
             "source": "sanyo",
             "sourceName": "山陽オート",
             "id": "4404",
             "title": "12/6（日）三宅選手・小川選手も参戦！レノファ山口FCのホームゲームで山陽オート冠マッチ＆イベント開催！",
-            "url": "https://sanyoauto.jp/topics/event/202611224404.html",
+            "url": "https://sanyoauto.jp/topics/news/202611224404.html",
             "categories": [
-                "イベント"
+                "お知らせ"
             ],
             "publishedAt": "2026-11-22T08:00:02+09:00"
         },

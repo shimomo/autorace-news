@@ -2,10 +2,48 @@
     "date": "2026-11-25",
     "articles": [
         {
+            "source": "kawaguchi",
+            "sourceName": "川口オートレース",
+            "id": "13890",
+            "title": "テレ玉・WINTICKET presents 川口ナイトレース 田邉 誠選手(2026/11/25)",
+            "url": "https://www.kawaguchiauto.jp/interview/20261125/",
+            "categories": [
+                "選手インタビュー"
+            ],
+            "publishedAt": "2026-11-25T23:19:54+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "bm1jb_M0sSU",
+            "title": "川口オートレース中継 2026年11月25日 テレ玉・WINTICKETpresents　川口ナイトレース　最終日",
+            "url": "https://www.youtube.com/watch?v=bm1jb_M0sSU",
+            "categories": [],
+            "publishedAt": "2026-11-25T22:22:24+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "d7JiXSR8OQY",
+            "title": "近5走中3勝！38期の藤井真弘が好スタートから力強く勝利！！ #オートレース #autorace #飯塚オート #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=d7JiXSR8OQY",
+            "categories": [],
+            "publishedAt": "2026-11-25T19:00:04+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "YC_abUGaCps",
+            "title": "飯塚オートレース中継 2026年11月25日 オートレース中洲杯争奪戦　2日目",
+            "url": "https://www.youtube.com/watch?v=YC_abUGaCps",
+            "categories": [],
+            "publishedAt": "2026-11-25T17:09:20+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "033921",
-            "title": "【銀行直結会員】一括精算のお知らせ（PayPay銀行、三井住友銀行、ゆうちょ銀行） - AUTORACE.JP投票",
+            "title": "【銀行直結会員】一括精算のお知らせ（PayPay銀行、ゆうちょ銀行） - AUTORACE.JP投票",
             "url": "https://autorace.jp/news/voteinfo/2026/11/25/033921/",
             "categories": [
                 "ニュース",

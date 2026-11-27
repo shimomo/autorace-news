@@ -2,6 +2,122 @@
     "date": "2026-11-27",
     "articles": [
         {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "y5INdAYUZSE",
+            "title": "【オートレース名勝負】池田政和vs三浦康平!! 皇帝・池田政和が魅せた怒涛の追走劇#オートレース #autorace #池田政和 #三浦康平 #motorsport #モータースポーツ #shorts",
+            "url": "https://www.youtube.com/watch?v=y5INdAYUZSE",
+            "categories": [],
+            "publishedAt": "2026-11-27T19:00:03+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039044",
+            "title": "【ガールズレーサー女子会ライブ配信！】11/29（日）飯塚オーバーミッドナイトレースのライブ配信が決定！",
+            "url": "https://autorace.jp/news/event/2026/11/27/039044/",
+            "categories": [
+                "イベント情報",
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-27T18:00:00+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4314",
+            "title": "１１月２８日（土）～１２月１日（火）　レノファ山口FCカップ　【イベント情報】",
+            "url": "https://sanyoauto.jp/topics/event/202611274314.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-27T17:00:54+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039042",
+            "title": "青山周平選手（伊勢崎・31期）が伊勢崎市福祉事業基金に寄附を行いました。",
+            "url": "https://autorace.jp/news/2026/11/27/039042/",
+            "categories": [
+                "イベント情報",
+                "ニュース",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-11-27T15:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039035",
+            "title": "サンケイスポーツ杯 GIIレジェンドカップ 2026/12/02(水)～12/06(日)の特設サイトを公開しました。",
+            "url": "https://autorace.jp/news/2026/11/27/039035/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎",
+                "pickup"
+            ],
+            "publishedAt": "2026-11-27T14:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039036",
+            "title": "サンケイスポーツ杯 GIIレジェンドカップ 勝ち上がり",
+            "url": "https://autorace.jp/news/2026/11/27/039036/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-27T14:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039037",
+            "title": "サンケイスポーツ杯 GIIレジェンドカップ 発売締切及び発走予定時刻表",
+            "url": "https://autorace.jp/news/2026/11/27/039037/",
+            "categories": [
+                "ニュース"
+            ],
+            "publishedAt": "2026-11-27T14:00:00+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039038",
+            "title": "サンケイスポーツ杯 GIIレジェンドカップ 展望",
+            "url": "https://autorace.jp/news/2026/11/27/039038/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "伊勢崎"
+            ],
+            "publishedAt": "2026-11-27T14:00:00+09:00"
+        },
+        {
+            "source": "hamamatsu",
+            "sourceName": "浜松オート",
+            "id": "5158",
+            "title": "【12月13日（日）】オートレース南国に宮司佳奈選手が来場！",
+            "url": "https://www.hamamatsuauto.jp/newsinfo/5158",
+            "categories": [],
+            "publishedAt": "2026-11-27T12:03:27+09:00"
+        },
+        {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039043",
+            "title": "オーバーミッドナイト（飯塚・11/27～11/29）【展望】をアップしました",
+            "url": "https://autorace.jp/news/raceinfo/2026/11/27/039043/",
+            "categories": [
+                "ニュース",
+                "レース情報",
+                "飯塚"
+            ],
+            "publishedAt": "2026-11-27T11:00:32+09:00"
+        },
+        {
             "source": "autorace.jp",
             "sourceName": "AUTORACE.JP",
             "id": "038994",

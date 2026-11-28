@@ -2,6 +2,59 @@
     "date": "2026-11-28",
     "articles": [
         {
+            "source": "autorace.jp",
+            "sourceName": "AUTORACE.JP",
+            "id": "039047",
+            "title": "2026年11月28日 飯塚ミッドナイト 整備情報",
+            "url": "https://autorace.jp/news/2026/11/28/039047/",
+            "categories": [
+                "ニュース",
+                "飯塚",
+                "飯塚 整備情報"
+            ],
+            "publishedAt": "2026-11-28T19:42:18+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "dS5NO-mG8XE",
+            "title": "山陽オートレース中継 2026年11月28日 レノファ山口FCカップ　1日目",
+            "url": "https://www.youtube.com/watch?v=dS5NO-mG8XE",
+            "categories": [],
+            "publishedAt": "2026-11-28T19:27:57+09:00"
+        },
+        {
+            "source": "youtube",
+            "sourceName": "オートレース公式 YouTube",
+            "id": "rlIVLOEZnhE",
+            "title": "【オートレースリブランディング】カルチャー発信地 #渋谷 #原宿 の56カ所に240枚のポスターが出現！ #オートレース ポスタージャック！ #AUTORACE #shorts",
+            "url": "https://www.youtube.com/watch?v=rlIVLOEZnhE",
+            "categories": [],
+            "publishedAt": "2026-11-28T19:00:16+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4314",
+            "title": "１１月２８日（土）～１２月１日（火）　レノファ山口FCカップ　【イベント情報】",
+            "url": "https://sanyoauto.jp/topics/event/202611284314.html",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-28T17:00:54+09:00"
+        },
+        {
+            "source": "sanyo",
+            "sourceName": "山陽オート",
+            "id": "4485",
+            "title": "１１月２８日　応援メッセージ📣",
+            "url": "https://sanyoauto.jp/topics/message/202611284485.html",
+            "categories": [
+                "応援メッセージ"
+            ],
+            "publishedAt": "2026-11-28T15:08:32+09:00"
+        },
+        {
             "source": "youtube",
             "sourceName": "オートレース公式 YouTube",
             "id": "Zm1jBB8nID8",
